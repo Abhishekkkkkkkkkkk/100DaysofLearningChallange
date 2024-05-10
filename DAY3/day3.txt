@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my hashtag#day3 of hashtag#100daysoflearnng Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Conditional Statement in C++ in details
+ - While loop
+ - C++ program to print numbers between 1 to N
+ - C++ program to check whether a given number is even or odd
+ - C++ program to find the sum of even numbers and the sum of odd numbers from 1 to N
+ - C++ program to check whether a given character is uppercase or lowercase
+ - C++ program to convert Fahrenheit to Celsius
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is HTML?
+ - Understanding Boilerplate code of HTML
+ - What are the Resources to Follow for Web Development?
+ - HTML Comments
+
+Core Subject: In Core Subject, today I learned about this topic in Operating Systems:
+ - Multitasking vs Multithreading
+
+Happy Learning 🚀

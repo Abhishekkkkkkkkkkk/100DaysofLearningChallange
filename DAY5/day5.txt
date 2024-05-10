@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day4 of #100daysoflearnng Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved all the pattern problems mentioned in the image below:
+ 
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is Emmet in HTML?
+ - Experimentation using Emmet
+ - Elements Grouping
+ - Block vs Inline Elements
+ - List and complexity
+ - Anchor tag Variations
+
+Core Subject: In Core Subject, today I learned about this topic in Operating Systems:
+ - System call in operating system
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
+
+
+
+
+

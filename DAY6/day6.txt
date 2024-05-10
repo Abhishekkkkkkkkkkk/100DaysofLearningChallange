@@ -1,0 +1,38 @@
+Hello Everyone!
+Today was my #day6 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Bitwise Operators
+ - Left & Right Shift Operator
+ - Pre/Post/Increment/Decrement Operator
+ - For Loop
+ - Scope of Variables & Examples
+ - Operator Precedence
+ - C++ Program to print Fibonacci Series
+ - C++ Program to print Prime Number
+ 
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is Table in HTML?
+ - Examples on HTML Tables
+
+Core Subject: In Core Subject, today I learned about this topic in Operating Systems:
+ - How Operating System boots up ?
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+ 
+
+
+
+
+
+
+
+
+
+
+

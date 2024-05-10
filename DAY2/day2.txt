@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my hashtag#day2 of hashtag#100daysoflearnng Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Compilation Process
+ - What is the Compiler & IDE setup?
+ - Data Types & Variables
+ - How is data Stored?
+ - How (-ve) numbers are stored?
+ - Type Casting Overview
+ 
+Learning Web Development: In Web Development, today I learned about these topics:
+ - How does the INTERNET Work and its brief history?
+ - Protocols, Protocol Stack, and Packets
+ - How a Packet travels over the Internet?
+ - Router and Routing Table
+ - Understand requests for www.google.com
+
+Core Subject: In Core Subject, today I learned about these topic in Operating Systems:
+ - Types of operating systems in detail
+
+Happy Learning 🚀

@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my hashtag#day1 of hashtag#100daysoflearnng Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - How to solve a programming problem?
+ - What is Pseudo Code and Flow Chart?
+ - Components of a Flow Chart.
+ - Examples on Flow Chart and Pseudo Code.
+ 
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is the Web?
+ - Difference between Websites and Web Applications.
+ - Overview of Frontend, Backend and Databases.
+ - Internet and its types.
+ - Browser and Browser engine.
+ - Client Server Architecture.
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - What is the Operating System and why is there a need for an Operating system?
+ - Primary Goals and Functions of Operating System.
+
+Happy Learning 🚀
