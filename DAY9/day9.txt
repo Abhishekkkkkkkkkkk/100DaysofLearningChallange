@@ -1,0 +1,48 @@
+Hello Everyone!
+Today was my #day9 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Switch Case Statements in details
+ - break and continue statement
+ - Create a mini calculator program in C++
+ - Functions in details
+ - Function Call Stack
+ - Using Function solve these coding questions today:-
+1. Program to print power of two number 
+2. Program to check a given number is Prime or not
+3. Program to check a given number is Even or Odd
+4. Program to print nCr Factorial
+5. Program to print Counting from 1 to N 
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Media tags, Modern HTML and iframes
+ - Create a HTML Media Project
+ - SEO & Meta Tag?
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Context Switching in Details
+ - Swapping
+ - Orphan Process
+ - Zombie Process
+
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
+
+
+
+
+
+
+
+
+
