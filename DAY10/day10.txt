@@ -6,7 +6,7 @@ Learning DSA: In DSA, today I learned about these topics:
  - Arrays in details
  - Arrays with Functions
  - Different types of Arrays
- - Print Maximum and Minimum element in an Array
+ - C++ Program to Print Maximum and Minimum number in an Array
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Introduction to CSS
