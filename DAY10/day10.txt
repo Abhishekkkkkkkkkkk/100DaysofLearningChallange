@@ -1,0 +1,44 @@
+Hello Everyone!
+Today was my #day10 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Arrays in details
+ - Arrays with Functions
+ - Different types of Arrays
+ - Print Maximum and Minimum element in an Array
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Introduction to CSS
+ - Types of CSS
+ - Selectors in CSS
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Process Scheduling
+ - Cpu Scheduling and  its type
+ - Goals of CPU Scheduling
+ - FCFS 
+ - Convey Effect
+
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
