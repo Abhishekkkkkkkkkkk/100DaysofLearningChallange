@@ -1,0 +1,43 @@
+Hello Everyone!
+Today was my #day11 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Scope in Array
+ - Linear Search
+ - Reverse an Array
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Fonts and their Properties in CSS
+ - Colors in CSS
+ - Developer Tools
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Shortest Job First Scheduling Algorithm
+ - Priority Scheduling Algorithm
+ - Round Robin Scheduling Algorithm
+ - Indefinite Waiting
+
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
