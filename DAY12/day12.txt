@@ -1,0 +1,78 @@
+Hello Everyone!
+Today was my #day12 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Scope in Array
+ - Linear Search
+ - Reverse an Array
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Borders in CSS
+ - Height and Width in CSS
+ - CSS Box Model
+ - Padding and Margin
+ - CSS Universal Selector
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Multilevel Queue scheduling Algorithm
+ - Multilevel Feedback Queue scheduling Algorithm
+ - Comparison between CPU scheduling Algorithm
+
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
+
+00:00 - Introduction
+01:28 - Ques1 - Swap Alternates
+02:49 - Promotion
+03:53 - Example
+07:03 - Implementation
+10:58 - Dry Run again
+13:23 - Swap Function breakdown
+16:43 - Ques2 - Find Unique element
+25:03 - Implementation
+26:55 - LeetCode Homework
+30:46 - Ques3 - Find Duplicates
+36:21 - Implementation
+38:38 - Homework
+40:51 - Ques4 - Array Intersection
+46:22 - Implementation
+50:51 - Got TLE
+51:18 - Optimisation 1
+54:40 - Optimisation 2
+01:01:28 - Ques5 - Pair Sum
+01:03:43 - Implementation
+01:10:06 - Dry Run
+01:11:27 - Ques6 - Find triplets with given sum
+01:14:53 - Ques7 - Sort 0 1
+01:21:20 - implementation
+01:33:23 - Homework
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Box Model</title>
+
+    <style>
+        /* Universal Selector */
+        /* *{
+            margin: 0;
+            padding: 0;
+        } */
+        
+      h1 {
+        background-color: aqua;
+
+        /*  
+            border: 5px;
+            border-style: solid;
+             */
+
+        /* we can write all of the above things in one line like this  */
+
+        border: 5px solid green;
+        border-radius: 5px;
+        height: 150px;
+        width: 300px;
+      }
+      .firstpara {
+        background-color: yellow;
+        height: 150px;
+        width: 300px;
+        border: 3px solid rgb(20, 0, 4);
+        border-radius: 5px;
+      }
+      .secondpara {
+        background-color: green;
+        height: 150px;
+        width: 300px;
+        border: 3px solid rgb(20, 0, 4);
+        border-radius: 5px;
+      }
+      .thirdpara {
+        background-color: red;
+        height: 150px;
+        width: 300px;
+        border: 3px solid rgb(20, 0, 4);
+        border-radius: 5px;
+      }
+      .fourthpara {
+        background-color: rgb(242, 100, 100);
+        border: 3px solid rgb(20, 0, 4);
+        border-radius: 5px;
+        width: 370px;
+        /* margin: 30px;
+            padding: 50px; */
+
+        /* padding-top: 30px;
+            padding-right: 20px;
+            padding-bottom: 40px;
+            padding-left: 10px;
+             */
+        /* we can write all of the above things in one line like this  */
+        padding: 30px 20px 40px 10px;
+      }
+
+      span {
+        background-color: purple;
+        height: 150px;
+        width: 300px;
+        border: 3px solid rgb(20, 0, 4);
+        border-radius: 5px;
+
+        /* To set all the above property we have to make display block */
+        /* display: block; */
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Box Model in CSS</h1>
+
+    <p class="firstpara">
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis ab cum
+      facere necessitatibus enim voluptate aliquid vel. Accusamus, quae quos!
+    </p>
+
+    <p class="secondpara">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat a dicta
+      minima autem. Quisquam nam natus tenetur, earum cupiditate labore quis
+      beatae dolorem reiciendis recusandae consequatur placeat, libero
+      obcaecati. Ipsa.
+    </p>
+
+    <span
+      >Span is an inline element. It has no width or height. You could turn it
+      into a block-level element, then it will accept your dimension
+      directives.</span
+    >
+
+    <p class="thirdpara">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, sed?
+      Molestiae exercitationem hic suscipit rerum, ad voluptate! Non corrupti
+      eligendi distinctio totam consectetur, quia id quis tempore quae,
+      doloribus consequatur aspernatur delectus fugiat optio aperiam eos. Enim
+      cum distinctio consequatur.
+    </p>
+
+    <p class="fourthpara">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+    </p>
+  </body>
+</html>
