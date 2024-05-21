@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlexBox</title>
+    <style>
+        h1{
+            margin: 5px;
+            padding: 5px;
+            border: 2px solid green;
+            background-color: rgb(208, 192, 192);
+            text-align: center;
+            border-radius: 6px;
+        }
+        .container{
+            background-color: azure;
+            border: 5px solid black;
+            margin: 3px;
+            padding: 3px;
+            display: flex;
+            height: 800px;
+            /* flex-wrap: wrap; */
+            /* flex-direction: column; */
+            /* flex-direction: column-reverse; */
+            flex-direction: row;
+            /* flex-direction: row-reverse; */
+            /* justify-content: space-between; */
+            align-items: start;     
+            /* align-content: start; */
+
+        }
+        .box{
+            height: 200px;
+            width: 200px;
+            border: 2px solid black;
+            margin: 3px;
+            padding: 3px;
+
+        }
+        #box1{
+            background-color: aqua;
+            /* order: 20; */
+            /* flex-shrink: 4; */
+            /* flex-grow: 5; */
+            /* align-self: end; */
+        }
+        #box2{
+            background-color: red;
+            /* flex-grow: 1; */
+        }
+        #box3{
+            background-color: pink;
+            /* flex-grow: 1; */
+        }
+        #box4{
+            background-color: yellow;
+            /* flex-grow: 1; */
+            /* order: -1; */
+            /* flex-basis: 500px; */
+        }
+    </style>
+</head>
+<body>
+    <h1>Flex Box in CSS</h1>
+    <div class="container">
+        <div class="box" id="box1">1</div>
+        <div class="box" id="box2">2</div>
+        <div class="box" id="box3">3</div>
+        <div class="box" id="box4">4</div>
+    </div>
+</body>
+</html>
