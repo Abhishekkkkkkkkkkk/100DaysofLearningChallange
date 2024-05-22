@@ -1,0 +1,47 @@
+Hello Everyone!
+Today was my #day16 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these question based on Array using Binary Search:
+ - First and Last position of an element in a sorted array
+ - Total number of Occurance of an element in a sorted array
+ - Find Peak Element Leetcode Question
+ - Peak Index in a Mountain Array Leetcode Question
+
+Learning Web Development: In Web Development, today I learned about this topics:
+ - CSS Media Queries
+ - Custom Variables
+ - CSS Shadow Effects 
+ - Box Shadow and Text Shadow
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Producer Consumer problem  
+ - Solution for Producer Consumer problem
+ - Reader Writer Problem
+ - Solution for Reader Writer problem 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

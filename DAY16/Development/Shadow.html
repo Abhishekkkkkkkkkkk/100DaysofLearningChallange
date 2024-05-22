@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shadow</title>
+    <style>
+      :root {
+        --primary-color: rgb(195, 55, 0);
+        --secondary-color: pink;
+      }
+      h1 {
+        margin: 5px;
+        padding: 5px;
+        background-color: var(--primary-color);
+        color: white;
+        border: 3px solid rgb(22, 0, 0);
+        border-radius: 10px;
+        text-align: center;
+      }
+      .container {
+        height: 600px;
+        margin: 5px;
+        padding: 5px;
+        background-color: yellowgreen;
+        border: 5px solid red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      img {
+        height: 100px;
+        width: 100px;
+        margin-left: 100px;
+      }
+      h2 {
+        text-align: center;
+      }
+      p {
+        text-align: center;
+      }
+      .box {
+        height: 300px;
+        width: 300px;
+        margin: 5px;
+        padding: 5px;
+        background-color: #fff;
+        border: 5px solid var(--secondary-color);
+        /* Keyword values */
+        box-shadow: none;
+
+        /* A color and two length values */
+        /* <color> | <length> | <length> */
+        /* box-shadow: red 60px -16px; */
+
+        /* Three length values and a color */
+        /* <length> | <length> | <length> | <color> */
+        box-shadow: 3px -3px 40px rgb(198, 8, 8);
+
+        /* Four length values and a color */
+        /* <length> | <length> | <length> | <length> | <color> */
+        /* box-shadow: 2px 2px 2px 1px red; */
+
+        /* inset, length values, and a color */
+        /* <inset> | <length> | <length> | <color> */
+        /* box-shadow: inset 5em 1em gold; */
+
+        /* Any number of shadows, separated by commas */
+        /* box-shadow: 3px 3px red inset, -1em 0 0.4em olive; */
+      }
+      #text1 {
+        /* offset-x | offset-y | blur-radius | color */
+        text-shadow: 1px 1px 2px rgb(255, 247, 247);
+
+        /* color | offset-x | offset-y | blur-radius */
+        /* text-shadow: #fc0 1px 0 10px; */
+
+        /* offset-x | offset-y | color */
+        /* text-shadow: 5px 5px #558abb; */
+
+        /* color | offset-x | offset-y */
+        /* text-shadow: white 2px 5px;  */
+
+        /* offset-x | offset-y
+      /* Use defaults for color and blur-radius */
+        /* text-shadow: 5px 10px; */
+      }
+
+      #text2 {
+        text-shadow: 5px 5px 1px rgb(72, 226, 0), 0 0 1em rgb(255, 0, 0),
+          0 0 0.2em rgb(221, 255, 0);
+        color: white;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+    
+    <h1>Shadow Effect in CSS</h1>
+    <div class="container">
+      <div class="box">
+        <img src="img1.jpeg" alt="image hota kya hai" />
+        <h2 id="text1">Mere Uper Image hai</h2>
+        <p id="text2">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad laborum
+          culpa necessitatibus eius, at velit quis quo repellat minima
+          aspernatur, harum et mollitia?
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

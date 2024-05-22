@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Responsive Bolte</title>
+    <style>
+      .whole-cont {
+        display: flex;
+        justify-content: center;
+      }
+      .container {
+        margin: 10px;
+        padding: 10px;
+        height: 400px;
+        width: 400px;
+        background-color: rgb(201, 119, 119);
+        border: 5px solid green;
+      }
+      #cont1 {
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        block-size: fit-content;
+      }
+      #cont2 {
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        block-size: fit-content;
+      }
+      #cont3 {
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        block-size: fit-content;
+      }
+      .text {
+        margin: 5px;
+        padding: 5px;
+      }
+      #p1 {
+        background-color: yellow;
+      }
+      #p2 {
+        background-color: rebeccapurple;
+      }
+      p {
+        background-color: olive;
+      }
+      img {
+        height: 200px;
+        width: 200px;
+        margin-top: 10px;
+        padding: 5px;
+      }
+
+      /* Responsive Screen */
+
+      @media (max-width: 500px) {
+        .whole-cont {
+        flex-wrap: wrap;
+      }
+      #cont1{
+        order: 3;
+      }
+      #cont3{
+        order: -1;
+      }
+        
+      }
+      @media (min-width: 500px) and (max-width: 850px) {
+
+        .whole-cont {
+        flex-wrap: wrap;
+        flex-direction: column;
+    
+      }
+      #cont2{
+        order: 2;
+      }
+      #cont3{
+        order: 0;
+        align-self: center;
+      }
+        
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="whole-cont">
+      <div class="container" id="cont1">
+        <div class="text">
+          <p id="p1">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis
+            necessitatibus officiis libero, nihil totam, at minima dignissimos
+            perspiciatis consequatur voluptatum explicabo voluptas sapiente.
+          </p>
+          <p id="p2">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum
+            animi, doloremque molestias iure maiores dignissimos!
+          </p>
+        </div>
+      </div>
+      <div class="container" id="cont2">
+        <img src="img1.jpeg" alt="image1" class="im1" />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi eum
+          rem provident quod voluptates, quis sunt rerum, quos, cupiditate ea
+          magni sint? Ipsam aperiam eaque minima ab. Saepe obcaecati tempore
+          animi magni officia eum?
+        </p>
+      </div>
+      <div class="container" id="cont3">
+        <img src="img2.jpeg" alt="image2" class="im2"/>
+      </div>
+    </div>
+  </body>
+</html>

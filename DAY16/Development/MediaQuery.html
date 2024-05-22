@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Media Query</title>
+    <style>
+      h1 {
+        margin: 5px;
+        padding: 5px;
+        background-color: rgb(99, 30, 3);
+        color: white;
+        border: 3px solid black;
+        border-radius: 10px;
+        text-align: center;
+      }
+      .container {
+        margin: 5px;
+        padding: 5px;
+        border: 7px solid red;
+        background-color: bisque;
+        display: flex;
+      }
+      .box {
+        height: 200px;
+        width: 200px;
+        border: 2px solid aqua;
+        margin: 5px;
+        padding: 5px;
+      }
+      #box1 {
+        background-color: purple;
+      }
+      #box2 {
+        background-color: rgb(0, 128, 117);
+      }
+      #box3 {
+        background-color: rgb(34, 12, 25);
+      }
+      #box4 {
+        background-color: rgb(53, 128, 0);
+      }
+      #box5 {
+        background-color: rgb(159, 146, 3);
+      }
+
+      @media (max-width: 640px) {
+        .container {
+          flex-direction: column;
+          background-color: black;
+        }
+      }
+      @media (min-width: 640px) {
+        .container {
+          flex-direction: row;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Media Query in CSS</h1>
+    <div class="container">
+      <div class="box" id="box1">Box Huu</div>
+      <div class="box" id="box2">Box Huu</div>
+      <div class="box" id="box3">Box Huu</div>
+      <div class="box" id="box4">Box Huu</div>
+      <div class="box" id="box5">Box Huu</div>
+    </div>
+  </body>
+</html>
