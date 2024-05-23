@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animation</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        margin: 5px;
+        padding: 5px;
+        background-color: red;
+        border: 3px solid green;
+        border-radius: 50px;
+        text-align: center;
+      }
+      .container {
+        height: 85vh;
+        width: 99vw;
+        background-color: aqua;
+        border: 5px solid black;
+      }
+      .box {
+        height: 50px;
+        width: 300px;
+        margin: 5px;
+        padding: 5px;
+        border: 3px solid olive;
+        border-radius: 30px;
+        background-color: yellowgreen;
+        position: relative;
+        animation-name: aagejayega;
+        /* animation-duration: 5s; */
+        /* animation-iteration-count: infinite; */
+        /* animation-delay: 1s; */
+        /* animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275); */
+        /* animation-timing-function: linear; */
+        /* animation-direction: alternate; */
+        /* animation-fill-mode: both; */
+
+        /* @keyframes duration | easing-function | delay |
+iteration-count | direction | fill-mode | play-state | name */
+        animation: 5s linear 1s infinite alternate both running aagejayega;
+
+        /* @keyframes duration | easing-function | delay | name */
+        /* animation: 3s linear 1s aagejayega; */
+
+      }
+      @keyframes aagejayega {
+        from {
+          top: 0;
+          left: 0;
+        }
+        to {
+          top: 0;
+          left: 1100px;
+        }
+      }
+
+
+
+      .circle{
+        height: 50px;
+        width: 50px;
+        margin: 5px;
+        padding: 5px;
+        top: 180px;
+        left: 700px;
+        border: 3px solid olive;
+        border-radius: 40px;
+        background-color: rgb(66, 10, 2);
+        position: relative;
+        animation-name: circlemove;
+        animation: 5s linear 1s infinite alternate both running circlemove;
+      }
+      @keyframes circlemove {
+        0%{
+            top: 1%;
+            left: 5%;
+
+        }
+        33%{
+            top: 60%;
+            left: 30%;
+
+        }
+        66%{
+            top: 1%;
+            left: 60%;
+
+        }
+        100%{
+            top: 70%;
+            left: 90%;
+            
+        }
+      }
+
+      .down-box{
+        height: 50px;
+        width: 300px;
+        margin: 5px;
+        padding: 5px;
+        border: 3px solid olive;
+        border-radius: 30px;
+        background-color: yellowgreen;
+        position: relative;
+        animation-name: pichejayega;
+        animation: 5s ease-in 1s infinite alternate none running pichejayega;
+      }
+
+      @keyframes pichejayega {
+        from {
+          top: 380px;
+          left: 1100px;
+        }
+        to {
+          top: 380px;
+          left: 0px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Animations in CSS</h1>
+    <div class="container">
+      <div class="box"></div>
+      <div class="circle"></div>
+      <div class="down-box"></div>
+      
+    </div>
+  </body>
+</html>
