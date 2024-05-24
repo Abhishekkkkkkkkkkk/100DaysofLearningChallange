@@ -1,0 +1,24 @@
+Hello Everyone!
+Today was my #day18 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved a advance level question which is :
+ - Book Allocation Problem ( Allocate minimum number of pages) 
+
+Learning Web Development: In Web Development, today I learned about this topics:
+ - 2D Transforms in CSS
+ - Created a Recipe Website Project using HTML and CSS
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Deadlock 
+ - How a Process and Thread utilizes a Resource?
+ - Necessary Condition for Deadlock
+ - Resource Allocation Graph
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
