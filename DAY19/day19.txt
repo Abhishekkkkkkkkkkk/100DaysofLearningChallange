@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my #day19 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, In DSA, today I solved these question based on Array :
+ - Find the XOR of Numbers Which Appear Twice (LeetCode)
+ - You and your books (Geeks for Geeks) 
+
+Learning Web Development: In Web Development, today I learned about this topics:
+ - Creating a Cards Website Project using CSS
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Deadlock Prevention
+ - Deadlock avoidance
+ - Banker Algorithm
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
