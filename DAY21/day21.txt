@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day21 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these question based on Array :
+ - Find Second Largest Element in an array without Sorting (Geeks for Geeks) 
+ - Searching an element in a sorted array (Geeks for Geeks)
+ 
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Examples of CSS GRID
+ - Created two different layout using CSS GRID
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Memory Management Techniques
+ - Logical Address
+ - Physical Address
+ - Memory Mapping and Protection
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
