@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100%;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  max-width: 70vw;
+  padding: 2rem 1rem;
+  margin: 0 auto;
+}
+.header-container {
+  margin-bottom: 2.8rem;
+}
+.header-title {
+  margin-bottom: 1rem;
+  font-size: 1.7rem;
+  line-height: 2rem;
+  font-weight: 700;
+  text-align: center;
+}
+.header-desc {
+  max-width: 568px;
+  text-align: center;
+  color: rgb(79, 73, 73);
+  margin: 0 auto;
+}
+
+/* MAIN CONTAINER  */
+
+.main-container {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(1, 1fr);
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid green;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.card-title-container {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.card-container:hover .card-image {
+  transform: scale(1.1);
+  transition-duration: 200ms;
+}
+.card-img-container {
+  position: relative;
+  overflow: hidden;
+  height: 11rem;
+}
+.card-image {
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  margin-bottom: 0.3rem;
+  color: rgb(112, 103, 103);
+}
+.card-title-anchor:hover .card-title {
+  color: rgb(30, 30, 171);
+}
+
+.card-desc {
+  color: rgb(134, 113, 113);
+  font-size: 1rem;
+}
+.card-footer-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  padding-bottom: 0.8rem;
+  align-items: flex-end;
+}
+.author-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.author-avtar-container {
+  height: 2rem;
+  width: 2.5rem;
+  margin-top: 1rem;
+  overflow: hidden;
+  background-color: rgb(244, 235, 235);
+  border: 1px solid rgb(60, 56, 56);
+  border-radius: 50%;
+}
+.author-info-container {
+  margin-top: 1.1rem;
+  display: flex;
+  flex-direction: column;
+}
+.author-name {
+  color: rgb(76, 76, 197);
+}
+.author-date {
+  color: rgb(207, 193, 193);
+}
+.card-tag-container {
+  margin-bottom: 1.1rem;
+  font-size: 0.8rem;
+  border: 1px solid rgb(135, 125, 125);
+  border-radius: 5px;
+  padding: 0.25rem 0.5rem;
+  line-height: 1.3rem;
+  color: grey;
+}
+
+/* CSS FOR RESPONSIVE SCREEN */
+
+@media (min-width: 875px) {
+  .main-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1190px) {
+  .main-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1460px) {
+  .main-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
