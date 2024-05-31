@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day23 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these question based on Array using Binary Search:
+ - Floor(Lower Bound) in a Sorted Array (Geeks For Geeks)
+ - First and Last Position of Element in Sorted Array (LeetCode)
+ - Total Number of occurrence (Geeks For Geeks)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Grid Layout using auto-fit and minmax function
+ - Grid Templet Areas
+ - 3D Transforms in CSS
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Defragmentation/Compaction
+ - How free space is stored/represented in OS?
+ - First Fit/Next Fit/Best Fit/Worst Fit
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive - GRID</title>
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    padding: 4rem;
+    display: grid;
+    gap: 1rem;
+    background-color: rgb(213, 223, 223);
+
+    grid-template-areas: 
+    "header header header"
+    "sidebar cont1 cont1"
+    "sidebar cont2 cont3"
+    "footer footer footer"
+    ;
+}
+.item{
+    padding: 1rem;
+    border: 2px solid green;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+#header{
+    grid-area: header;
+}
+#sidebar{
+    grid-area: sidebar;
+}
+#cont1{
+    grid-area: cont1;
+}
+#cont2{
+    grid-area: cont2;
+}
+#cont3{
+    grid-area: cont3;
+}
+#footer{
+    grid-area: footer;
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item" id="header">HEADER</div>
+        <div class="item" id="sidebar">SIDEBAR</div>
+        <div class="item" id="cont1">CONTENT1</div>
+        <div class="item" id="cont2">CONTENT2</div>
+        <div class="item" id="cont3">CONTENT3</div>
+        <div class="item" id="footer">FOOTER</div>
+    </div>
+</body>
+</html>

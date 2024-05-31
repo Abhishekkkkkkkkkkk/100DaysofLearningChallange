@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    padding: 4rem;
+    display: grid;
+    gap: 1rem;
+    background-color: rgb(213, 223, 223);
+    /* grid-template-columns: repeat(3, 1fr); */
+    grid-template-columns: repeat(auto-fit, minmax(100px, 200px));
+    justify-content: center;
+}
+.item{
+    padding: 1rem;
+    border: 2px solid green;
+    background-color: blueviolet;
+    color: white;
+}
