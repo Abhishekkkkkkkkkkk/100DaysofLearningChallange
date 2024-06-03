@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day24 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - What is sorting?
+ - Selection Sort in details
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Javascript 
+ - How to execute Javascript
+ - Variables in Javascript
+ - Rules for choosing variable name
+ - var, let, const in Javascript
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Non Contiguous Memory Allocation
+ - Paging
+ - Page Table
+ - How Paging avoids external fragmentation?
+ - Why paging is slow and how do we make it fast?
+ - Translation Look-aside buffer (TLB)
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
