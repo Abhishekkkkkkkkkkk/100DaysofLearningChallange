@@ -1,0 +1,29 @@
+Hello Everyone!
+Today was my #day24 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - How many times an Array been rotated (Geeks For Geeks)
+ - Selection Sort in details
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Data Type in Javascript
+ - Primitive Datatype
+ - Non Primitive Datatype 
+ - Operators in Javascript
+ - Arithmetic Operators
+ - Assignment Operators
+ - Comparison Operators
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Segmentation
+ - External Fragementation in Segmentation
+ - Internal Fragementation in Paging
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
