@@ -1,10 +1,10 @@
 Hello Everyone!
-Today was my #day24 of #100daysoflearning Challenge!
+Today was my #day25 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
  - How many times an Array been rotated (Geeks For Geeks)
- - Selection Sort in details
+ - Bubble Sort in details
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Data Type in Javascript
