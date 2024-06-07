@@ -1,0 +1,34 @@
+Hello Everyone!
+Today was my #day27 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Divisor Product (Geeks For Geeks)
+ - Kth Smallest Element (Geeks For Geeks)
+ - Sort 0s, 1s and 2s (Geeks For Geeks)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Loops in Javascript
+ - For Loop
+ - While Loop
+ - Do While Loop
+ - String
+ - Different operations on String like concatination, substring, length, uppercase, lowercase, split, join etc.
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Page Replacement Algorithms
+ - Page Fault
+ - First In First Out (FIFO)
+ - Belady’s anomaly in FIFO
+ - Optimal page replacement
+ - Least Recently Used (LRU)
+ - Implementation of LRU using Counter and Stack
+ - Counting-based Page Replacement (LFU and MFU)
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+

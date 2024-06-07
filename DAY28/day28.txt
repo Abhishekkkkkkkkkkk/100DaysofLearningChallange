@@ -1,0 +1,28 @@
+Hello Everyone!
+Today was my #day28 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Maximum product of two numbers (Geeks For Geeks)
+ - Intersection of two sorted arrays (Geeks For Geeks)
+ - Sort in Specific Order (Geeks For Geeks)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Functions in Javascript
+ - Function Declaration vs. Function Expression
+ - Returning Functions
+ - Arrow Functions
+
+Core Subject: In Core Subject, today I learned about these topics in Operating Systems:
+ - Thrashing
+ - Technique to Handle Thrashing
+ - Working Set Model
+ - Page Fault Frequency
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
