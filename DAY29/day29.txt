@@ -1,0 +1,33 @@
+Hello Everyone!
+Today was my #day29 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - STL in C++
+ - Components of STL(Algorithm, Containers)
+ - Sequence Containers(Array, Vector, Deque, List)
+ - Container Adaptors(Stack, Queue, Priority Queue)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Reference Type in Javascript(Array, Object, Function)
+ - Arrays
+ - Array Literal 
+ - Array Constructor 
+ - How to Access an Array?
+ - Built-In Methods in Arrays like :- push, pop, delete, shift, unshift, slice, splice, map, filter, reduce, sort, join, toString, concat, reverse, indexof etc.
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - What is Data?
+ - Types of Data(Quantitative, Qualitative)
+ - What is Information?
+ - What is Database?
+ - What is DBMS?
+ - DBMS vs File Systems
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
