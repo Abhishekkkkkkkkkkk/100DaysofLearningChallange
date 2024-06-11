@@ -1,0 +1,36 @@
+Hello Everyone!
+Today was my #day30 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Associative Containers(set, map)
+ - Algorithms(Binary Search, Lower/Upper Bound, Min/Max, Reverse/Rotate, Sort/Swap etc.)
+ - Height Checker(Leetcode POTD - 10/06/24)
+ - Relative Sort Array(Leetcode POTD - 11/06/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - for-each Loop
+ - for-in Loop
+ - for-of Loop
+ - Function Hosting 
+ - Variable Hosting 
+ - Function Call Stack
+ - Why Function is called as First Class Citizen in Javascript?
+ - Variable Scoping
+ - Temporal Dead Zone
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - How Abstraction related to DBMS?
+ - Three Schema Architecture
+ - Physical level / Internal level
+ - Logical level / Conceptual level
+ - View level / External level
+ - Instances of a Database
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
