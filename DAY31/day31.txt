@@ -1,0 +1,33 @@
+Hello Everyone!
+Today was my #day31 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Question:
+ - Sort Colors(Leetcode POTD - 12/06/24)
+ - Reverse the array after M position(Code Studio)
+ - Merge Sorted Array(Leetcode)
+ - Move Zeroes(Leetcode)
+ - Rotate the array to the right by k steps(Leetcode)
+ - Check if Array Is Sorted and Rotated(Leetcode)	
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Classes and Objects in Javascript
+ - Getter and Setter method
+ - Constructor in JS
+ - Default Parameters and its different-different cases in JS 
+ - In-Built Objects in JS like Math and Date
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - Data Models Overview
+ - Database Languages(DDL, DML)
+ - How is Database accessed from Application programs?
+ - Database Administrator(DBA) and its Functions
+ - DBMS Application Architectures(Tier-1, Tier-2, Tier-3) 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
