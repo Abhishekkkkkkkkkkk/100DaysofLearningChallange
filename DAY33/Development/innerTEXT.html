@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inner TEXT</title>
+</head>
+<body>
+    <div id="myPara">
+        This is     first <span>paragraph</span>
+
+        <p style="display: none">This has a property Hidden</p>
+    </div>
+
+
+
+    <script>
+      //Selecting the element with id "myPara"
+          let myElement = document.getElementById("myPara");
+      
+          //Now retrieving innerText of the selected element
+          let content = myElement.innerText;
+      
+          console.log(content);
+
+      
+      //Let's try to change the content of selected element
+          let newPara = 'New Paragraph';
+          myElement.innerText = newPara;
+      </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+Hello Everyone!
+Today was my #day33 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve these Questions:
+ - Maximum Occuring Character(Geeks For Geeks)
+ - Replace Spaces(CodeStudio)
+ - Remove All Occurance of a Sub String(Leetcode)
+ - Armstrong Numbers(Greks For Geeks POTD-14/06/24)	
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Javascript DOM Manipulation
+ - What is window object? 
+ - Browser Object Model
+ - Access Element(by ID, className, tagName, querySelector) 
+ - Update Existing Element(innerHHML, outerHTML, textContent, innerText)
+ - Modifying HTML Element(createElement method, appendChild method)
+ - Insert Element(child) at Adjecent Position(before and after begin, before and after end)
+ - Remove Child method
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - Relationships(Strong, Weak)
+ - Degree of Relationship(Unary, Binary, Ternary)
+ - Relationships Constraints(Mapping Cardinality, Participation Constraints)
+ - ER Notations  
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+

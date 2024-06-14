@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inner HTML</title>
+</head>
+<body>
+    <h1 class="fhead">first heading</h1>
+    <div id="div1">
+        <div >this is the first div</div>
+    </div>
+    <p class="fpara">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, tempore?</p>
+
+    <script>
+        //Selecting the element with id "myPara"
+let myElement = document.getElementById("div1");
+      
+      //Now retrieving innerHTML of the selected element
+      let content = myElement.innerHTML;
+      
+      console.log(content);
+      
+      
+      //Let's try to change the content of selected element
+      let newPara = "I am a New Paragraph ";
+      myElement.innerHTML = newPara;
+    </script>
+</body>
+</html>

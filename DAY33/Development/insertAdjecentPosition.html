@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert Child at any Position</title>
+</head>
+<body>
+    <div>
+        My name is DON
+        <div id="fdiv">
+            <p id="fpara">my para</p>
+            <h1>first heading</h1>
+            <p>my second para</p>
+        </div>
+    </div>
+
+    <script>
+        let myDiv = document.querySelector('#fdiv');
+        console.log(myDiv);
+
+        let newElement = document.createElement('span');
+        console.log(newElement);
+        newElement.textContent = "I am a new text";
+        
+        // myDiv.insertAdjacentElement('beforebegin', newElement);
+        // myDiv.insertAdjacentElement('beforeend', newElement);
+        // myDiv.insertAdjacentElement('afterbegin', newElement);
+        myDiv.insertAdjacentElement('afterend', newElement);
+
+        let parent = document.querySelector('#fdiv');
+        let child = document.querySelector('#fpara');
+        parent.removeChild(child);
+    </script>
+</body>
+</html>

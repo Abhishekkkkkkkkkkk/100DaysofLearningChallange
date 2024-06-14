@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Content</title>
+</head>
+<body>
+    <h1>The textContent property retrieves or sets the text content of the specified element, but unlike innerText, it includes all text content, including child elements and their text.</h1>
+
+
+    <div id="myPara">
+        This element     has <span>spacing</span>
+
+        <p style="display: none">This has a property Hidden</p>
+    </div>
+
+
+
+    <script>
+      //Selecting the element with id "myPara"
+          let myElement = document.getElementById("myPara");
+      
+          //Now retrieving textContent of the selected element
+          let content = myElement.textContent;
+      
+          console.log(content);
+      
+      //Let's try to change the content of selected element
+          let newPara = 'New Para';
+          myElement.textContent = newPara;
+      </script>
+</body>
+</html>

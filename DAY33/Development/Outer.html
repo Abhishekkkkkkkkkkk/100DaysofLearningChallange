@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outer HTML</title>
+</head>
+<body>
+    <div id="fdiv">
+        <p id="fpara">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>   
+    </div>
+
+    <script>
+        //Selecting the element with id "myPara"
+            let myElement = document.getElementById("fdiv");
+        
+            //Now retrieving outerHTML of the selected element
+            let content = myElement.outerHTML;
+        
+            console.log(content);
+        
+        
+        //Let's try to change the content of selected element
+        // Setting outerHTML content (replaces the entire element)
+            let newPara = '<div>My Name is Abhishek</div>';
+            myElement.outerHTML = newPara;
+      </script>
+</body>
+</html>
