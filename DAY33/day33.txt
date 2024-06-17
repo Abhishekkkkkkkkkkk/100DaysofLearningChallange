@@ -6,7 +6,7 @@ Learning DSA: In DSA, today I Solve these Questions:
  - Maximum Occuring Character(Geeks For Geeks)
  - Replace Spaces(CodeStudio)
  - Remove All Occurance of a Sub String(Leetcode)
- - Armstrong Numbers(Greks For Geeks POTD-14/06/24)	
+ - Armstrong Numbers(Geeks For Geeks POTD-14/06/24)	
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Javascript DOM Manipulation
