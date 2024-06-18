@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day35 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - 2-D Array in Details
+ - Why we need 2-D Arrays?
+ - Linear Search in 2D Arrays
+ - Number of Rectangles in a Circle(Geeks For Geeks POTD - 18/06/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Browser Events
+ - What is an Event? 
+ - what is Event Target?
+ - Add and Remove Event Listners 
+ - Phases of an Event(Capturnig, At-Target and Bubbling)
+ - Event Objects
+ - How to change Default Action?
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - How to Think and Formulate ER Diagram
+ - ER Diagram of Banking System 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
