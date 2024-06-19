@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day36 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Row Wise and Column Wsie Sum in 2-D Array
+ - Largest Row Sum and Printing their Index
+ - Print Like A Wave(Codestudio)
+ - Spiral Matrix(Leetcode)
+
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Avoiding too many Listners
+ - Performance Reflow 
+ - Performance Repaint
+ - Document Fragement
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - Facebook Database Formulation using ER Model
+ - Relational Model
+ - Important Properties of a Table
+ - Keys in Relational Model(Super, Candidate, Primary, Alternate, Foreign, Composite, Compound and Surrogate) 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
