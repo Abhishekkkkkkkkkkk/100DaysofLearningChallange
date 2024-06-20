@@ -1,0 +1,32 @@
+Hello Everyone!
+Today was my #day37 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Search a 2D Matrix(Leetcode)
+ - Search a 2D Matrix II(Leetcode)
+ - Rotate a Matrix by 90 degree(Leetcode)
+ - Integral Points Inside Triangle(Geeks For Geeks - POTD 20/06/24)
+ - Magnetic Force Between Two Balls(Leetcode - POTD 20/06/24)
+
+Learning Web Development: In Web Development, today I Completed Some Exercises of Sigma Web Development Course(CodeWithHarry):
+ - Exercise 1 - Pure HTML Media Player
+ - Exercise 2 - CSS Challenges 
+ - Exercise 3 - Design the Card
+ - Exercise 4 - Multi Color Website
+
+Core Subject: In Core Subject, today I learned about these topics in DBMS:
+ - Integrity Constraints
+ - Domain Constraints
+ - Entity Constraints
+ - Referential Constraints(Insert and Delete Constraints)
+ - On Delete Cascade and On Delete Null
+ - Key Constraints(NOT NULL, UNIQUE, DEFAULT, CHECK, PRIMARY KEY and FOREIGN KEY) 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
