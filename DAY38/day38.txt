@@ -1,0 +1,29 @@
+Hello Everyone!
+Today was my #day38 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Sieve of Eratosthenes Theorem
+ - Count Primes(Leetcode)
+ - Euclidean Algorithm
+ - Program to print GCD of Two Numbers
+ - Modulo Arithmetics
+ - Modular Exponentiation(Codestudio)
+
+Learning Web Development: In Web Development, today I Completed Some Exercises of Sigma Web Development Course(CodeWithHarry):
+ - Exercise 5 - Design given Layout
+ - Exercise 6 - Navbar using Flexbox 
+ - Exercise 8 - Bounce Animation
+ - Exercise 9 - Faulty Calculator
+ - Exercise 10 - Business Name Generator
+
+Core Subject: In Core Subject, today I learned about this topic in DBMS:
+ - Transformation From ER Model to Relational Model
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
