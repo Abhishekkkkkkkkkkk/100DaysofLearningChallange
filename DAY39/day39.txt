@@ -1,0 +1,33 @@
+Hello Everyone!
+Today was my #day39 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Pointers in C++
+ - How a Pointer Store Address?
+ - Different Examples on Pointer
+ - Null Pointer and Value Access
+ - Copying a Pointer
+ - Print Bracket Number(Geeks For Geeks POTD - 23/06/24)
+ - Summed Matrix(Geeks For Geeks POTD - 24/06/24)
+
+Learning Web Development: In Web Development, today I learned about this topics in Javascript:
+ - Mouse Events
+ - Keyboard Events
+ - Event bubbling and propagation in JavaScript
+ - setInterval and setTimeout 
+ - Clear setInterval and setTimeout
+
+Core Subject: In Core Subject, today I learned about this topic in DBMS:
+ - What is RDBMS?
+ - What is SQL and MySQL?
+ - Difference between SQL and MySQL
+ - CURD(Create, Update, Read, Delete) Operation
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
