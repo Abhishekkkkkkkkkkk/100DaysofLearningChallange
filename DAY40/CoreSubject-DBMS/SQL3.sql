@@ -1,0 +1,69 @@
+CREATE DATABASE ORGG;
+
+SHOW DATABASES;
+USE ORGG;
+
+CREATE TABLE worker (
+  WORKER_ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  FIRST_NAME CHAR(25),
+  LAST_NAME CHAR(25),
+  SALARY INT(15),
+  JOINING_DATE DATETIME,
+  DEPARTMENT CHAR(25)
+);
+
+INSERT INTO worker (WORKER_ID, FIRST_NAME, LAST_NAME, SALARY, JOINING_DATE, DEPARTMENT) VALUES
+  (001, 'Abhishek', 'Kumar', 50000, '2024-08-10', 'Admin'),
+  (002, 'Adwitiya', 'Morya', 60000, '2024-07-15', 'SDE'),
+  (003, 'Divyanshu', 'Sharma', 40000, '2024-02-03', 'Admin'),
+  (004, 'Abhishar', 'Agarwal', 30000, '2024-10-05', 'ENGG'),
+  (005, 'Anurag', 'Kadam', 25000, '2025-09-10', 'ENGG'),
+  (006, 'Anuj', 'Thakur', 20000, '2025-03-17', 'Account'),
+  (007, 'Aman', 'Paradkar', 50000, '2024-07-19', 'SDE'),
+  (008, 'Mohit', 'Kumar', 50000, '2023-11-27', 'ENGG');
+
+                        
+SELECT * FROM worker;
+
+CREATE TABLE Bonus (
+    WORKER_REF_ID INT,
+    BONUS_AMOUNT INT(10),
+    BONOUS_DATE DATE,
+    FOREIGN KEY (WORKER_REF_ID) 
+    REFERENCES worker(WORKER_ID) 
+    ON DELETE CASCADE
+);
+
+
+INSERT INTO Bonus
+( WORKER_REF_ID, BONUS_AMOUNT, BONUS_DATE ) VALUES
+   (001, 5000, '16-02-20'),
+   (002, 3000, '16-06-11'),
+   (003, 4000, '16-02-20'),
+   (001, 4500, '16-02-20'),
+   (002, 3500, '16-06-11');
+   
+   
+CREATE TABLE Title (
+    WORKER_REF_ID INT,
+    WORKER_TITLE CHAR(25),
+    AFFECTED_FROM DATETIME,
+    FOREIGN KEY (WORKER_REF_ID) 
+    REFERENCES worker(WORKER_ID) 
+    ON DELETE CASCADE
+);
+
+INSERT INTO Title
+( WORKER_REF_ID, WORKER_TITLE, AFFECTED_FROM ) VALUES
+   (001, 'Manager','2016-02-10 00:00:00'),
+   (002, 'Manager','2016-02-10 00:00:00'),
+   (008, 'Manager','2016-02-10 00:00:00'),
+   (005, 'Manager','2016-02-10 00:00:00'),
+   (004, 'Manager','2016-02-10 00:00:00'),
+   (007, 'Manager','2016-02-10 00:00:00'),
+   (001, 'Manager','2016-02-10 00:00:00'),
+   (001, 'Manager','2016-02-10 00:00:00'),
+   
+
+
+		

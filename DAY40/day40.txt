@@ -1,0 +1,32 @@
+Hello Everyone!
+Today was my #day40 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Difference between Pointer and Array
+ - Using Pointers with Integer Array and Character Array
+ - Using Pointers with Functions
+ - Using Pointers with Functions and Array Together
+ - Merge k Sorted Arrays(Geeks For Geeks)
+ - Left Rotate Matrix K times(Geeks For Geeks POTD - 25/06/24)
+
+Learning Web Development: In Web Development, today I learned about this topics in Javascript:
+ - Asynchronous Nature of Javascript
+ - Callback Function
+ - Pyramid of DOM(Callback Hell)
+ - Promise in Javascript
+ - then and catch method
+ - Promise API's(.all, .allSettled, .race, .any, .resolve, .reject)
+
+Core Subject: In Core Subject, today I learned about this topic in SQL:
+ - SQL DATATYPES
+ - SQL Commands Overview
+ - Types of SQL Commands(DDL, DRL/DQL, DML, DCL, TCL)
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
