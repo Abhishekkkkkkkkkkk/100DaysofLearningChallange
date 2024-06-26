@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day41 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these questions:
+ - Key Pair(Geeks For Geeks)
+ - Wave Array(Geeks For Geeks)
+ - K-th element of two Arrays(Geeks For Geeks)
+ - Coverage of all Zeros in a Binary Matrix(Geeks For Geeks POTD - 26/06/24)
+
+Learning Web Development: In Web Development, today I learned about these topics in Javascript:
+ - Async Await in Javascript
+ - Fetch API
+ - PUT and POST Method
+ - UPDATE and DELETE Method
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - Created a Organization Database in which there are three table is present(Worker, Bonous and Title)
+ - CREATE, INSERT and SELECT Keyword
+ - How to use SELECT keyword without using FROM clause?
+ - WHERE, BETWEEN and IN Keyword
+ - AND, OR, NOT AND IS NULL Keyword
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
