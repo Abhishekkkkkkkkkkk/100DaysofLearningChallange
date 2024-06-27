@@ -1,0 +1,33 @@
+Hello Everyone!
+Today was my #day42 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Double Pointer
+ - Using Double Pointers with Functions
+ - Solve Different MCQ's on Pointer
+ - Parenthesis Checker(Geeks For Geeks)
+ - Spirally traversing a matrix(Geeks For Geeks)
+ - Toeplitz matrix(Geeks For Geeks POTD - 27/06/24)
+
+Learning Web Development: In Web Development, today I learned about these topics in Javascript:
+ - IIFE Function
+ - Destructuring
+ - The Magical Sorting Hat Question using Javascript
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - Wildcard Charaters in SQL
+ - Sorting in SQL using ORDER BY
+ - DISTINCT Keyword
+ - Aggeregation Function(COUNT, SUM, AVG, MIN, MAX) in SQL
+ - Grouping the Data using GROUP BY
+ - GROUP BY HAVING Keyword
+ - Difference between WHERE and HAVING
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkd.in/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
