@@ -1,0 +1,29 @@
+Hello Everyone!
+Today was my #day43 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Reference Variable
+ - Pass By Value vs Pass By Reference
+ - Return by Reference and it's Drawbacks
+ - Static vs Dynamic Memory Allocation
+ - Manually Releasing Dynamic Memory
+
+Learning Web Development: In Web Development, today I learned about these topics in Javascript:
+ - What is Backend?
+ - What is Node Js and npm?
+ - How to Import Modules in Node Js?
+ - Common Js Module vs EcmaScript Module
+ - What is Named and Default Export?
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - DLL Key Constraints(Primary Key, Foreign Key, UNIQUE, CHECK, DEFAULT)
+ - ALTER operations(ADD, MODIFY, CHANGE COLUMN, DROP COLUMN, RENAME)
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkdin/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
