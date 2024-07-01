@@ -1,0 +1,1 @@
+I am Writing Something Inside fs.writeFileSyncMy Name is AbhishekMy Name is Abhishek

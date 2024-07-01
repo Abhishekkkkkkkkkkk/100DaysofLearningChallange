@@ -1,0 +1,27 @@
+Hello Everyone!
+Today was my #day44 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - How to Create 2D Array Dynamically?
+ - How to Release Memory? 
+ - Jagged Array
+ - Array Subset(Geeks For Geeks)
+ - Counting elements in two arrays(Geeks For Geeks)
+
+Learning Web Development: In Web Development, today I learned about these topics in Javascript:
+ - Working with Files in Node Js
+ - fs Modules
+ - path Modules
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - DML(INSERT, UPDATE, DELETE, REPLACE) in Details
+ - Working of ON DELETE CASCADE and ON DELETE SET NULL 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkdin/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
