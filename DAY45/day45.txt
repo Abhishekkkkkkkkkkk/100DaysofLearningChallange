@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day45 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Macros
+ - Global Variable
+ - Inline Functions
+ - Default Arguments
+ - Three Consecutive Odds(Leetcode POTD - 01/07/24)
+ - Intersection of Two Arrays II(Leetcode POTD - 02/07/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is Express JS and Why Should We Use Express JS?
+ - Installing and Setup of Express Js
+ - Request Parameter and Queries Parameter in Express
+ - Using Static Files in Express
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - JOIN
+ - INNER JOIN
+ - Alias(AS) 
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkdin/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
