@@ -11,7 +11,7 @@ Learning DSA: In DSA, today I Solve These Questions:
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Middleware in Express
- - Types of Middleware like Application-level, Router-level, Error-handling, Built-in and Third-party
+ - Types of Middlewares like Application-level, Router-level, Error-handling, Built-in and Third-party
 
 Core Subject: In Core Subject, today I learned about these topics in SQL:
  - SET OPERATIONS
