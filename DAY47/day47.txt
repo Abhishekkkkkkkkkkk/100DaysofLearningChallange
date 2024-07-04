@@ -4,7 +4,9 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
  - Fibonacci Number(Leetcode)
- - Count Ways To Reach The N-th Stairs(Codestudio)
+ - Count Pairs That Form a Complete Day I(Leetcode)
+ - Find Minimum Operations to Make All Elements Divisible by Three(Leetcode)
+ - Count Ways To Reach The N-th Stairs
  - Solve Some Example Questions on Recursion
 
 Learning Web Development: In Web Development, today I learned about these topics:
