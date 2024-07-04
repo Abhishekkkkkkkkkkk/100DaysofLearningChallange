@@ -2,14 +2,10 @@ Hello Everyone!
 Today was my #day47 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
-Learning DSA: In DSA, today I learned about these topics:
- - Recursion
- - Base Case and why it is mandatory in Recursion?
- - Recurrance Relation
- - Tail and Head Recursion
- - Recursion Tree
- - C++ Program for factorial, power of two and Counting from one to n using Recursion
- - Minimum Difference Between Largest and Smallest Value in Three Moves(Leetcode POTD - 03/07/24)
+Learning DSA: In DSA, today I Solve These Questions:
+ - Fibonacci Number(Leetcode)
+ - Count Ways To Reach The N-th Stairs(Codestudio)
+ - Solve Some Example Questions on Recursion
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Middleware in Express
