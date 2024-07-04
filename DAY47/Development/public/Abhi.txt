@@ -1,0 +1,10 @@
+My name is Abhishek and i am inside the public folder
+
+
+Different Types of Middleware
+
+1 - Application-level middleware
+2 - Router-level middleware
+3 - Error-handling middleware
+4 - Built-in middleware
+5 - Third-party middleware
