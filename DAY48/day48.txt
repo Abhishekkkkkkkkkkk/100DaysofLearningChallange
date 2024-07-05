@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day48 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve These Questions:
+ - Fibonacci Number(Leetcode)
+ - Count Pairs That Form a Complete Day I(Leetcode)
+ - Find Minimum Operations to Make All Elements Divisible by Three(Leetcode)
+ - Count Ways To Reach The N-th Stairs
+ - Solve Some Example Questions on Recursion
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Middleware in Express
+ - Types of Middlewares like Application-level, Router-level, Error-handling, Built-in and Third-party
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - SUB QUERIES
+ - Subquery using WHERE Clause and FROM Clause
+ - Single Value Subquery
+ - Co Related Subquery
+ - JOIN VS SUB QUERIES
+ - VIEWS in MySQL
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkdin/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
