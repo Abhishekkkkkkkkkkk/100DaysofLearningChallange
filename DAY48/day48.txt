@@ -3,11 +3,10 @@ Today was my #day48 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
- - Fibonacci Number(Leetcode)
- - Count Pairs That Form a Complete Day I(Leetcode)
- - Find Minimum Operations to Make All Elements Divisible by Three(Leetcode)
- - Count Ways To Reach The N-th Stairs
- - Solve Some Example Questions on Recursion
+ - Check If an Array is Sorted using Recursion
+ - Sum of elements in an Array using Recursion
+ - Linear Search using Recursion
+ - Binary Search using Recursion
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - ejs Template Engines
