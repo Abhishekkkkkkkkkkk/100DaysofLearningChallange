@@ -10,8 +10,9 @@ Learning DSA: In DSA, today I Solve These Questions:
  - Solve Some Example Questions on Recursion
 
 Learning Web Development: In Web Development, today I learned about these topics:
- - Middleware in Express
- - Types of Middlewares like Application-level, Router-level, Error-handling, Built-in and Third-party
+ - ejs Template Engines
+ - Rendering EJS Views
+ - Using ejs with Express Js
 
 Core Subject: In Core Subject, today I learned about these topics in SQL:
  - SUB QUERIES
