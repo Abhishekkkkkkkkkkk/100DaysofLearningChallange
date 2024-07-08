@@ -1,0 +1,28 @@
+Hello Everyone!
+Today was my #day49 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve These Questions:
+ - Check if a String is a Palindrome or not using Recursion
+ - Exponent of Two Numbers using Recursion
+ - Reverse a String using Recursion(Codestudio)
+ - Count pairs with given sum(Geeks for Geeks)
+ - First non-repeating character in a stream(Geeks for Geeks)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - How to Install MongoDB & MongoDB Compass
+ - CRUD(Create, Read, Update and Delete) Operation in Mongo DB
+
+Core Subject: In Core Subject, today I learned about these topics in SQL:
+ - Functional Dependency
+ - Types of FD(Trivial FD, Non-trivial FD)
+ - Armstrong’s axioms(Rules of FD)
+ - Reflexive, Augmentation and Transitivity
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkdin/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
