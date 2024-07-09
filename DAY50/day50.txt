@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day50 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve These Questions:
+ - Merge Sort(Codestudio)
+ - Search in Rotated Sorted Array(Geeks for Geeks POTD - 08/07/24)
+ - Closest Three Sum(Geeks for Geeks POTD - 09/07/24)
+ - Pass the Pillow(Leetcode POTD - 06/07/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Installing Mongoose & Using it with Express
+ - Schemas and Models using Mongoose
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - Normalisation Overview
+ - What happen if we have redundant data?
+ - Anomalies(Insertion, Deletion, Updation)
+
+Here is the link to all of the resources:-
+GitHub:- https://lnkdin/dgTxA9RJ
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
