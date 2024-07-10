@@ -1,10 +1,13 @@
 Hello Everyone!
-Today was my #day50 of #100daysoflearning Challenge!
+Today was my #day51 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
  - Quick Sort(Codestudio)
+ - Check If N and Its Double Exists(Leetcode)
+ - Find Smallest Letter Greater Than Target(Leetcode)
  - Count Pairs Whose Sum is Less than Target(Leetcode)
+ - Count Elements With Strictly Smaller and Greater Elements(Leetcode)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Tailwind CSS Overview
@@ -16,7 +19,7 @@ Core Subject: In Core Subject, today I learned about these topics:
  - Advantages of Normalisation
 
 Here is the link to all of the resources:-
-GitHub:- https://lnkdin/dgTxA9RJ
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
 
 Happy Learning 🚀
 
