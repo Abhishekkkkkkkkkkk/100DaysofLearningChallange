@@ -3,14 +3,13 @@ Today was my #day50 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
+ - Quick Sort(Codestudio)
  - Count Pairs Whose Sum is Less than Target(Leetcode)
- - Search in Rotated Sorted Array(Geeks for Geeks POTD - 08/07/24)
- - Closest Three Sum(Geeks for Geeks POTD - 09/07/24)
- - Pass the Pillow(Leetcode POTD - 06/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Tailwind CSS Overview
  - How to setup Tailwind CSS
+ - Learned about Tailblocks for better understanding of Tailwind CSS Components
 
 Core Subject: In Core Subject, today I learned about these topics:
  - Types of Normal forms(1NF, 2NF, 3NF and BCNF)
