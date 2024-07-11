@@ -1,0 +1,27 @@
+Hello Everyone!
+Today was my #day52 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve These Questions:
+ - Array Duplicates(Geeks For Geeks)
+ - Missing in Array(Geeks For Geeks)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is Hosting?
+ - Type of Hosting(Shared, Dedicated and Managed)
+ - What is .env File?
+ - Filezilla Software Overview
+ - How to host Static Website?
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - Transaction
+ - ACID Properties
+ - Transaction states(Active, Partially Committed, Committed, Failed, Aborted, and Terminated)
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
