@@ -3,11 +3,8 @@ Today was my #day53 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
- - Subsets(Leetcode)
- - Subsequences of String(Codestudio)
- - Array Duplicates(Geeks For Geeks)
- - Missing in Array(Geeks For Geeks)
- - Find the Distance Value Between Two Arrays(Leetcode)
+ - Find K Closest Elements(Leetcode)
+ - Letter Combinations of a Phone Number(Leetcode)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - What is React & Why We Use React?
