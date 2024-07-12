@@ -4,6 +4,7 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
  - Find K Closest Elements(Leetcode)
+ - Common in 3 Sorted Arrays(Geeks For Geeks)
  - Letter Combinations of a Phone Number(Leetcode)
 
 Learning Web Development: In Web Development, today I learned about these topics:
@@ -11,7 +12,6 @@ Learning Web Development: In Web Development, today I learned about these topics
  - Created a Simple Counter Using with and without React JS
  - Understanding JSX
  - Embedding Expressions in JSX
- - How to host Static Website?
 
 Core Subject: In Core Subject, today I learned about these topics:
  - How to Implement Atomicity and Durability?
