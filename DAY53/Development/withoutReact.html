@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Without React Increase Count</title>
+</head>
+<body>
+    <div id="count">0</div>
+    <button id="btn">Increase</button>
+    <script>
+        document.getElementById("btn").addEventListener("click", () => {
+        let num = parseInt(document.getElementById("count").innerHTML);  
+        document.getElementById("count").innerHTML = num + 1;
+        });
+    </script>
+</body>
+</html>
