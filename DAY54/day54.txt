@@ -1,0 +1,29 @@
+Hello Everyone!
+Today was my #day54 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve These Questions:
+ - Find K Closest Elements(Leetcode)
+ - Common in 3 Sorted Arrays(Geeks For Geeks)
+ - Letter Combinations of a Phone Number(Leetcode)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is React & Why We Use React?
+ - Created a Simple Counter Using with and without React JS
+ - Understanding JSX
+ - Embedding Expressions in JSX
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - Why Indexing is important in Database Systems?
+ - Primary Index (Clustering Index)
+ - Secondary Index (Non-Clustering Index)
+ - Dense Index and Sparse Index
+ - Multi-level Index
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
