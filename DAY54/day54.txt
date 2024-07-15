@@ -3,15 +3,14 @@ Today was my #day54 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
- - Find K Closest Elements(Leetcode)
- - Common in 3 Sorted Arrays(Geeks For Geeks)
- - Letter Combinations of a Phone Number(Leetcode)
+ - Permutations(Leetcode)
+ - Find the closest number(Geeks for Geeks)
+ - Minimum Number in a sorted rotated array(Geeks for Geeks)
+ - Segregate 0s and 1s(Geeks for Geeks POTD - 14/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
- - What is React & Why We Use React?
- - Created a Simple Counter Using with and without React JS
- - Understanding JSX
- - Embedding Expressions in JSX
+ - Components in React
+ - Props in React
 
 Core Subject: In Core Subject, today I learned about these topics:
  - Why Indexing is important in Database Systems?
