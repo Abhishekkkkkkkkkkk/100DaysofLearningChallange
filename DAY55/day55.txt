@@ -3,14 +3,13 @@ Today was my #day55 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solve These Questions:
- - Permutations(Leetcode)
+ - Rat in a Maze Problem - I(Geeks for Geeks)
  - Palindrome String(Geeks for Geeks)
- - Minimum Number in a sorted rotated array(Geeks for Geeks)
  - Remaining String(Geeks for Geeks POTD - 16/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
- - Components in React
- - Props in React
+ - Hooks and State in React
+ - useState Hook
 
 Core Subject: In Core Subject, today I learned about these topics:
  - What are NoSQL Databases?
