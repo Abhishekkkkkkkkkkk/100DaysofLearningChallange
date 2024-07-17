@@ -1,0 +1,28 @@
+Hello Everyone!
+Today was my #day56 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solve These Questions:
+ - Rat in a Maze Problem - I(Geeks for Geeks)
+ - Palindrome String(Geeks for Geeks)
+ - Remaining String(Geeks for Geeks POTD - 16/07/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Hooks and State in React
+ - useState Hook
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - What are NoSQL Databases?
+ - Difference Between SQL and NoSQL
+ - History behind NoSQL
+ - Data Modeling in SQL vs NoSQL
+ - Advantages of NoSQL
+ - Scaling(Vertical and Horizontal)
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
