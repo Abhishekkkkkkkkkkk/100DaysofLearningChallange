@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day57 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Time & Space Complexity of Recursive Algorithms
+ - Determined Time and Space Complexity of Factorial, Binary Search, Merge Sort, Fibonacci Series etc.
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - useRef Hook in React
+ - Focusing a text input using useRef
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - Types of Databases
+ - Object Oriented Databases 
+ - Advantages and Disadvantages of Object Oriented Databases
+ - Hierarchical Databases
+ - Network Databases
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
