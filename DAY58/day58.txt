@@ -3,9 +3,11 @@ Today was my #day58 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Static and Dynamic Allocation
  - this Keyword in C++
- - Constructor(Default, Parameterized and Copy constructors)
+ - Static and Dynamic Allocation
+ - Constructor(Default, Parameterized and Copy)
+ - Lucky Numbers in a Matrix(Leetcode POTD - 19/07/24)
+ - Count Smaller elements(Geeks For Geeks POTD - 19/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Conditional Rendering in React
@@ -14,8 +16,8 @@ Learning Web Development: In Web Development, today I learned about these topics
 Core Subject: In Core Subject, today I learned about these topics:
  - What is Clustering?
  - Advantages of Clustering
- - How does Clustering Work?
  - Content Delivery Network
+ - How does Clustering Work?
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
