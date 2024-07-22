@@ -10,6 +10,7 @@ Learning DSA: In DSA, today I learned about these topics:
  - Sort the People(Leetcode POTD - 22/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
+ - Fetch data from an API, insert the data into cards, and then display the cards
  - Handling Events in React
 
 Core Subject: In Core Subject, today I learned about these topics:
