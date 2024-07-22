@@ -3,10 +3,13 @@ Today was my #day59 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
+ - Shallow and Deep Copy
+ - Copy Assignment Operator
+ - Destructor
+ - Static Functions and Static Keyword
  - Sort the People(Leetcode POTD - 22/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
- - Conditional Rendering in React
  - Handling Events in React
 
 Core Subject: In Core Subject, today I learned about these topics:
