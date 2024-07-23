@@ -3,10 +3,10 @@ Today was my #day60 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Shallow and Deep Copy
- - Copy Assignment Operator
- - Destructor
- - Static Functions and Static Keyword
+ - Encapsulation
+ - Inheritance
+ - Super Class and Sub Class
+ - Mode of Inheritance
  - Sort Array by Increasing Frequency(Leetcode POTD - 23/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
