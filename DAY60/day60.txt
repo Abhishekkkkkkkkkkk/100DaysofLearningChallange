@@ -1,0 +1,32 @@
+Hello Everyone!
+Today was my #day60 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Shallow and Deep Copy
+ - Copy Assignment Operator
+ - Destructor
+ - Static Functions and Static Keyword
+ - Sort Array by Increasing Frequency(Leetcode POTD - 23/07/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Router in React
+ - createBrowserRouter and RouterProvider in React
+ - useParams in React
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - Database Scaling Patterns 
+ - Pattern 1:- Query Optimisation & Connection Pool Implementation
+ - Pattern 2:- Vertical Scaling or Scale-up
+ - Pattern 3:- Command Query Responsibility Segregation (CQRS)
+ - Pattern 4:- Multi Primary Replication
+ - Pattern 5:- Partitioning of Data by Functionality
+ - Pattern 6:- Horizontal Scaling or Scale-out
+ - Pattern 7:- Data Centre Wise Partition
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
