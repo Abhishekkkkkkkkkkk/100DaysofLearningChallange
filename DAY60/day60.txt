@@ -12,7 +12,7 @@ Learning DSA: In DSA, today I learned about these topics:
 Learning Web Development: In Web Development, today I learned about these topics:
  - Router in React
  - createBrowserRouter and RouterProvider in React
- - useParams in React
+ - useParam in React
 
 Core Subject: In Core Subject, today I learned about these topics:
  - Database Scaling Patterns 
