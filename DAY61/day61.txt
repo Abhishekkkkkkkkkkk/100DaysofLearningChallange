@@ -3,10 +3,12 @@ Today was my #day61 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Encapsulation
- - Inheritance
- - Super Class and Sub Class
- - Mode of Inheritance
+ - Types of Inheritance(Single, Multi-Level, Multiple, Hierarchical and Hybrid)
+ - Inheritance Ambiguity
+ - Polymorphism(Compile Time and Run Time)
+ - Function and Operator Overloading
+ - Method Overriding
+ - Abstraction
  - Sort Array by Increasing Frequency(Leetcode POTD - 23/07/24)
 
 Learning Web Development: In Web Development, today I learned about this topics:
