@@ -1,0 +1,25 @@
+Hello Everyone!
+Today was my #day61 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Encapsulation
+ - Inheritance
+ - Super Class and Sub Class
+ - Mode of Inheritance
+ - Sort Array by Increasing Frequency(Leetcode POTD - 23/07/24)
+
+Learning Web Development: In Web Development, today I learned about this topics:
+ - useContext hook and Context API in React
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - CAP Theorem 
+ - Consistency, Availability and Partition Tolerance in CAP Theorem
+ - CAP Theorem NoSQL Databases(CA, CP and AP)
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
