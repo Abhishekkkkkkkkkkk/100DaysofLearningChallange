@@ -9,7 +9,8 @@ Learning DSA: In DSA, today I learned about these topics:
  - Function and Operator Overloading
  - Method Overriding
  - Abstraction
- - Sort Array by Increasing Frequency(Leetcode POTD - 23/07/24)
+ - Valid Anagram(Leetcode)
+ - Single Number(Leetcode)
 
 Learning Web Development: In Web Development, today I learned about this topics:
  - useContext hook and Context API in React
