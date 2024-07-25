@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my #day62 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Types of Inheritance(Single, Multi-Level, Multiple, Hierarchical and Hybrid)
+ - Union of Two Sorted Arrays(Geeks For Geeks)
+ - Sort an Array(Leetcode POTD - 25/07/24)
+
+Learning Web Development: In Web Development, today I learned about this topics:
+ - useContext hook and Context API in React
+
+Core Subject: In Core Subject, today I learned about these topics:
+ - Master Slave Architecture 
+ - How does Replication happen?
+ - Advantages of Master Slave Architecture
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
