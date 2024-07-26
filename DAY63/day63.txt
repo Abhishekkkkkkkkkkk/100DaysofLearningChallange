@@ -3,13 +3,8 @@ Today was my #day63 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - What is a Linked List?
- - Linked Lists vs Arrays and Vectors
- - What is Singly Linked List?
- - Node Structure of Singly Linked List
- - Insertion Operation in Singly Linked List(Begining, End, and at a Specific Position)
- - Union of Two Sorted Arrays(Geeks For Geeks)
- - Sort an Array(Leetcode POTD - 25/07/24)
+ - Deletion Operation in Singly Linked List
+ - Deleting Starting, Middle and Last Node in Singly Linked List
 
 Learning Web Development: In Web Development, today I learned about this topics:
  - What is Memo?
