@@ -36,11 +36,15 @@ void insertAtTail(Node* &tail, int d){
 }
 
 // Deletion Operation
-void deleteNode(int position, Node* &head){
+void deleteNode(int position, Node* &head, Node* &tail){
     // Delete the first node
     if(position == 1){
         Node* temp = head;
         head = head->next;
+        // If we are deleting the only node present
+        if (head == NULL) {
+            tail = NULL;
+        }
         // Memory free the start node 
         temp->next = NULL;
         delete temp;
@@ -56,6 +60,12 @@ void deleteNode(int position, Node* &head){
             curr = curr->next;
             cnt++;
         }
+
+        // If the node to be deleted is the last node
+        if (curr->next == NULL) {
+            tail = prev;
+        }
+
         prev->next = curr->next;
         curr->next = NULL;
         delete curr;
@@ -95,12 +105,19 @@ int main(){
     insertAtTail(tail, 70);
     print(head);
 
-    deleteNode(1, head);
+    deleteNode(1, head, tail);
     print(head);
-    deleteNode(3, head);
+    deleteNode(3, head, tail);
     print(head);
-    deleteNode(5, head);
+    deleteNode(5, head, tail);
     print(head);
+
+    // Print the tail value
+    if (tail != NULL) {
+        cout << "Tail: " << tail->data << endl;
+    } else {
+        cout << "Tail is NULL" << endl;
+    }
     
     return 0;
 }
