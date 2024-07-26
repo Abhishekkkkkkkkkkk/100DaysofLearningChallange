@@ -5,15 +5,17 @@ I Completed all the tasks that I scheduled for today.
 Learning DSA: In DSA, today I learned about these topics:
  - Deletion Operation in Singly Linked List
  - Deleting Starting, Middle and Last Node in Singly Linked List
+ - Remove Duplicates from Sorted Array(Leetcode)
+ - Max Consecutive Ones(Leetcode)
 
-Learning Web Development: In Web Development, today I learned about this topics:
+Learning Web Development: In Web Development, today I learned about these topics:
  - What is Memo?
  - useCallback hook in React
 
 Core Subject: In Core Subject, today I learned about these topics:
- - Master Slave Architecture 
- - How does Replication happens?
- - Advantages of Master Slave Architecture
+ - What is Computer Network? 
+ - What Do Computer Networks Do?
+ - Key Components of a Computer Network
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
