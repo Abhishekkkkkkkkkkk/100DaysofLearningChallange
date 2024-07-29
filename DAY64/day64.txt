@@ -17,7 +17,7 @@ Learning Web Development: In Web Development, today I learned about these topics
 Core Subject: In Core Subject, today I learned about these topics in Computer Network:
  - Repeater
  - Hub
- - Types of Hub(Active, Passive and Intelligent) 
+ - Types of Hub(Active, Passive, and Intelligent) 
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
