@@ -1,0 +1,25 @@
+Hello Everyone!
+Today was my #day64 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Deletion Operation in Singly Linked List
+ - Deleting Starting, Middle and Last Node in Singly Linked List
+ - Remove Duplicates(Geeks For Geeks POTD - 28/07/24)
+ - Row with max 1s(Geeks For Geeks POTD - 29/07/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - What is Memo?
+ - useCallback hook in React
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Network:
+ - Repeater
+ - Hub
+ - Types of Hub(Active, Passive and Intelligent) 
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
