@@ -3,14 +3,14 @@ Today was my #day64 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Deletion Operation in Singly Linked List
- - Deleting Starting, Middle and Last Node in Singly Linked List
+ - Doubly Linked List
+ - Insertion at Starting, Middle and Last Node in Doubly Linked List
  - Remove Duplicates(Geeks For Geeks POTD - 28/07/24)
  - Row with max 1s(Geeks For Geeks POTD - 29/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Creating a Basic Form in React Js
- - Installing and setting up React Hook Form
+ - Installing and setting up React Hook Form Library
  - Connecting React Form to Backend with Express
  - Handling form submission in React
 
