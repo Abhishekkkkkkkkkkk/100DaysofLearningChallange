@@ -9,8 +9,10 @@ Learning DSA: In DSA, today I learned about these topics:
  - Row with max 1s(Geeks For Geeks POTD - 29/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
- - What is Memo?
- - useCallback hook in React
+ - Creating a Basic Form in React Js
+ - Installing and setting up React Hook Form
+ - Connecting React Form to Backend with Express
+ - Handling form submission in React
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Network:
  - Repeater
