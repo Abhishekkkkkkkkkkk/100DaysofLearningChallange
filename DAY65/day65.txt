@@ -1,10 +1,10 @@
 Hello Everyone!
-Today was my #day64 of #100daysoflearning Challenge!
+Today was my #day65 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Doubly Linked List
- - Insertion at Starting, Middle and Last Node in Doubly Linked List
+ - Delition Operation at Starting, Middle and Last Node in Doubly Linked List
+ - Majority Element(Geeks For Geeks)
  - Rat in a Maze Problem - I(Geeks For Geeks POTD - 30/07/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
