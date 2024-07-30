@@ -1,0 +1,27 @@
+Hello Everyone!
+Today was my #day64 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Doubly Linked List
+ - Insertion at Starting, Middle and Last Node in Doubly Linked List
+ - Remove Duplicates(Geeks For Geeks POTD - 28/07/24)
+ - Row with max 1s(Geeks For Geeks POTD - 29/07/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Creating a Basic Form in React Js
+ - Installing and setting up React Hook Form Library
+ - Connecting React Form to Backend with Express
+ - Handling form submission in React
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Network:
+ - Routers and its types
+ - Functions of Router
+ - Bridges and its type
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
