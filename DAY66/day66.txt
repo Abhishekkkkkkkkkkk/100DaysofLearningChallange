@@ -3,19 +3,22 @@ Today was my #day66 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Delition Operation at Starting, Middle and Last Node in Doubly Linked List
+ - Singly Circular Linked List
+ - Traversing in Singly Circular Linked List
+ - Insertion and Deletion in Singly Circular Linked List
+ - Array Leaders(Geeks For Geeks)
  - Move all negative elements to end(Geeks For Geeks)
+ - Merge Without Extra Space(Geeks For Geeks)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - What is Next Js?
  - Features of Next Js
  - Installation and Setup of Next Js
  - Understanding Folder Structure of Next Js
+ - App Routing vs Pages Routing
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Network:
- - Routers and its type
- - Functions of Router
- - Bridges and its type
+
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
