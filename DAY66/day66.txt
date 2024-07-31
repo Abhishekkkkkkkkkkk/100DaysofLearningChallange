@@ -18,7 +18,9 @@ Learning Web Development: In Web Development, today I learned about these topics
  - App Routing vs Pages Routing
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Network:
-
+ - What is Gateway?
+ - what is Brouter?
+ - What is Switches?
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
