@@ -12,7 +12,7 @@ Learning Web Development: In Web Development, today I learned about these topics
  - Client Components in Next.js
  - Diffference Between Client and Server Component
 
-Core Subject: In Core Subject, today I learned about some basic terms which is used in Computer Network:
+Core Subject: In Core Subject, today I learned about some basic terms which is used in Computer Networks:
  - Client, Server, Peer, Host
  - Bandwidth, Latency, Throughput, Bit rate 
  - Jitter, Packet, Frame, Local Host 
