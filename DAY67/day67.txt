@@ -1,0 +1,24 @@
+Hello Everyone!
+Today was my #day67 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Spirally traversing a matrix(Geeks For Geeks POTD - 01/08/24)
+ - Number of Senior Citizens(Leetcode POTD - 01/08/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Server Components in Next.js
+ - Client Components in Next.js
+ - Diffference Between Client and Server Component
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Network:
+ - What is Gateway?
+ - what is Brouter?
+ - What is Switches?
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
