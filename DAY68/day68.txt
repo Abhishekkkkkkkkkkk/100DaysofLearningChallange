@@ -4,6 +4,8 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
  - Last index of One(GEEKS FOR GEEKS)
+ - Pythagorean Triplet(GEEKS FOR GEEKS)
+ - Chocolate Distribution Problem(GEEKS FOR GEEKS)
  - Element with left side smaller and right side greater(GEEKS FOR GEEKS)
 
 Learning Web Development: In Web Development, today I learned about these topics:
