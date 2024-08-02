@@ -9,8 +9,10 @@ Learning DSA: In DSA, today I learned about these topics:
  - Max Consecutive Ones(Leetcode)
 
 Learning Web Development: In Web Development, today I learned about these topics:
- - What is Memo?
- - useCallback hook in React
+ - Link Component in Next.js
+ - Image Component in Next.js
+ - Script Component in Next.js
+ - How to change title of every page in Next.js
 
 Core Subject: In Core Subject, today I learned about these topics:
  - What is Computer Network? 
