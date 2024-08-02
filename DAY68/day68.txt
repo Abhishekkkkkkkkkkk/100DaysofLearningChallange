@@ -1,12 +1,10 @@
 Hello Everyone!
-Today was my #day63 of #100daysoflearning Challenge!
+Today was my #day68 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Deletion Operation in Singly Linked List
- - Deleting Starting, Middle and Last Node in Singly Linked List
- - Remove Duplicates from Sorted Array(Leetcode)
- - Max Consecutive Ones(Leetcode)
+ - Last index of One(GEEKS FOR GEEKS)
+ - Element with left side smaller and right side greater(GEEKS FOR GEEKS)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Link Component in Next.js
@@ -14,10 +12,9 @@ Learning Web Development: In Web Development, today I learned about these topics
  - Script Component in Next.js
  - How to change title of every page in Next.js
 
-Core Subject: In Core Subject, today I learned about these topics:
- - What is Computer Network? 
- - What Do Computer Networks Do?
- - Key Components of a Computer Network
+Core Subject: In Core Subject, today I learned about these topics in Computer Network:
+ - Difference between Internet and Web  
+ - Difference between Unicast, Broadcast and Multicast 
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
