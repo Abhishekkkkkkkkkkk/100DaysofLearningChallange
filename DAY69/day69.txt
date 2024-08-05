@@ -3,18 +3,18 @@ Today was my #day69 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Last index of One(GEEKS FOR GEEKS)
- - Pythagorean Triplet(GEEKS FOR GEEKS)
- - Chocolate Distribution Problem(GEEKS FOR GEEKS)
- - Element with left side smaller and right side greater(GEEKS FOR GEEKS)
+ - Reverse Linked List using Iterative and Resurcive Method(Leetcode)
+ - Make Two Arrays Equal by Reversing Subarrays(Leetcode POTD - 03/08/24)
+ - Range Sum of Sorted Subarray Sums(Leetcode POTD - 04/08/24)
+ - Kth Distinct String in an Array(Leetcode POTD - 05/08/24)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Route Handlers in Next.js
  - Created an API in Next.js
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Network:
- - Difference between Internet and Web  
- - Difference between Unicast, Broadcast and Multicast 
+ - What is Network Topology  
+ - Types of Network Topologies like Point-to-Point, Mesh, Star, Bus, Ring, Tree, and Hybrid
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
