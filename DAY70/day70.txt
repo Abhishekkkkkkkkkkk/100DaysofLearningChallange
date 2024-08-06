@@ -3,21 +3,20 @@ Today was my #day70 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
- - Reverse Linked List using Iterative and Resurcive Method(Leetcode)
- - Make Two Arrays Equal by Reversing Subarrays(Leetcode POTD - 03/08/24)
- - Range Sum of Sorted Subarray Sums(Leetcode POTD - 04/08/24)
- - Kth Distinct String in an Array(Leetcode POTD - 05/08/24)
+ - Permutations of a given string(Geeks For Geeks)
+ - Search insert position of K in a sorted array(Geeks For Geeks)
+ - Middle of the Linked List using Brute Force and Recursive Method(Leetcode)
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Server Actions in Next.js
  - Clear Form after clicking Submit Button using useRef Hook
 
-Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Personal Area Network (PAN)
- - Local Area Network (LAN)  
- - Campus Area Network (CAN)
- - Metropolitan Area Network (MAN)
- - Wide Area Network (WAN)
+Core Subject: In Core Subject, today I learned about different types of Computer Networks:
+ - Personal Area Network
+ - Local Area Network 
+ - Campus Area Network
+ - Metropolitan Area Network
+ - Wide Area Network
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
