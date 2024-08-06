@@ -12,9 +12,12 @@ Learning Web Development: In Web Development, today I learned about these topics
  - Server Actions in Next.js
  - Clear Form after clicking Submit Button using useRef Hook
 
-Core Subject: In Core Subject, today I learned about these topics in Computer Network:
- - What is Network Topology  
- - Types of Network Topologies like Point-to-Point, Mesh, Star, Bus, Ring, Tree, and Hybrid
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - Personal Area Network (PAN)
+ - Local Area Network (LAN)  
+ - Campus Area Network (CAN)
+ - Metropolitan Area Network (MAN)
+ - Wide Area Network (WAN)
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
