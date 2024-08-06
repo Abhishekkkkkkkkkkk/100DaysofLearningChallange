@@ -1,0 +1,24 @@
+Hello Everyone!
+Today was my #day70 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Reverse Linked List using Iterative and Resurcive Method(Leetcode)
+ - Make Two Arrays Equal by Reversing Subarrays(Leetcode POTD - 03/08/24)
+ - Range Sum of Sorted Subarray Sums(Leetcode POTD - 04/08/24)
+ - Kth Distinct String in an Array(Leetcode POTD - 05/08/24)
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Server Actions in Next.js
+ - Clear Form after clicking Submit Button using useRef Hook
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Network:
+ - What is Network Topology  
+ - Types of Network Topologies like Point-to-Point, Mesh, Star, Bus, Ring, Tree, and Hybrid
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
