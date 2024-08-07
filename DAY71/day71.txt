@@ -3,7 +3,7 @@ Today was my #day71 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
- - Search an element in sorted and rotated array - I(Geeks For Geeks)
+ - Search an element in a sorted and rotated array - I(Geeks For Geeks)
  - Search in Rotated Array - II(Geeks For Geeks)
  - Find Minimum in Rotated Sorted Array(Leetcode)
  - K-th element of two Arrays(Geeks For Geeks - POTD 07/08/24)
@@ -12,12 +12,10 @@ Learning Web Development: In Web Development, today I learned about these topics
  - Middleware in Next.js
  - Difference between Redirect and Rewrite
 
-Core Subject: In Core Subject, today I learned about different types of Computer Networks:
- - Personal Area Network
- - Local Area Network 
- - Campus Area Network
- - Metropolitan Area Network
- - Wide Area Network
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is the OSI Model?
+ - Principles and Features of OSI Model
+ - Merits and Demerits of OSI Model
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
