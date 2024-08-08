@@ -9,8 +9,8 @@ Learning DSA: In DSA, today I Solved these Questions:
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Authentication in Next.js
- - Installing and exploring Auth.js
- - Using GitHub and NextAuth.js for Sign-in and Sign-out in Next.js
+ - Installing and Exploring Auth.js
+ - Using GitHub and NextAuth for Sign-in and Sign-out in Next.js
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Physical Layer in OSI Model
