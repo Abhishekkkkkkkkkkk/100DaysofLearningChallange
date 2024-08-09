@@ -3,9 +3,11 @@ Today was my #day73 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
- - Spiral Matrix II(Leetcode)
+ - Remove Element(Leetcode)
+ - Single Number II(Leetcode)
+ - Find Minimum in Rotated Sorted Array II(Leetcode HARD)
  - Maximize Array Value After Rearrangement(Geeks For Geeks - POTD 09/08/24)
- - Reverse Nodes in k-Group(Leetcode HARD)
+
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Dynamic Routes in Next.js
