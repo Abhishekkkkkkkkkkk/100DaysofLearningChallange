@@ -11,12 +11,12 @@ Learning DSA: In DSA, today I Solved these Questions:
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Dynamic Routes in Next.js
- - How to implement dynamic routing in NextJS?
+ - How to Implement Dynamic Routing in NextJS?
  - Created Custom Not Found page and Error page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Physical Layer in OSI Model
- - Functions of the Physical Layer
+ - What is Ethernet?
+ - What is Intranet and Extranet?
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
