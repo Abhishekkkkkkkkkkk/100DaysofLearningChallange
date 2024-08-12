@@ -2,7 +2,12 @@ Hello Everyone!
 Today was my #day74 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
-Learning DSA: In DSA, today I Solved these Questions:
+Learning DSA: In DSA, today I learned about these topics:
+ - Floyd Cycle Detection Algorithm
+ - Detect Loop using FCD Algorithm
+ - Finding the starting node of the Cycle using FCD Algorithm
+ - Linked List Cycle(Leetcode)
+ - Remove loop in Linked List(Geeks For Geeks)
  - Rotate a Linked List(Geeks For Geeks - POTD 12/08/24)
  - Sum of Middle elements of two sorted arrays(Geeks For Geeks - POTD 12/08/24)
 
