@@ -4,13 +4,11 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I learned about these topics:
  - Floyd Cycle Detection Algorithm
- - Detect Loop using FCD Algorithm
- - Finding the starting node of the Cycle using FCD Algorithm
+ - Detect Loop and Find the starting Node of the Cycle using FCD Algorithm
  - Linked List Cycle(Leetcode)
  - Remove loop in Linked List(Geeks For Geeks)
- - Rotate a Linked List(Geeks For Geeks - POTD 12/08/24)
+ - Rotate a Linked List(Geeks For Geeks - POTD 10/08/24)
  - Sum of Middle elements of two sorted arrays(Geeks For Geeks - POTD 12/08/24)
-
 
 Learning Web Development: In Web Development, today I learned about these topics:
  - Layout in Next.js
@@ -18,8 +16,8 @@ Learning Web Development: In Web Development, today I learned about these topics
  - Metadata in Next.js
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is Ethernet?
- - What is Intranet and Extranet?
+ - What is Data Link Layer?
+ - Sub Layers of the Data Link Layer(Logical Link Control and Media Access Control)
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
