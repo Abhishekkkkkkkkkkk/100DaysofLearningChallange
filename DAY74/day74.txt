@@ -1,0 +1,24 @@
+Hello Everyone!
+Today was my #day74 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Rotate a Linked List(Geeks For Geeks - POTD 12/08/24)
+ - Sum of Middle elements of two sorted arrays(Geeks For Geeks - POTD 12/08/24)
+
+
+Learning Web Development: In Web Development, today I learned about these topics:
+ - Layout in Next.js
+ - Created Group Layout in Next.js
+ - Metadata in Next.js
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is Ethernet?
+ - What is Intranet and Extranet?
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
