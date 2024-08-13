@@ -1,0 +1,24 @@
+Hello Everyone!
+Today was my #day75 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I learned about these topics:
+ - Remove Duplicates from Sorted List(Leetcode)
+ - Delete the Middle Node of a Linked List(Leetcode)
+ - Square root of a number(Geeks For Geeks - POTD 13/08/24)
+
+Learning Web Development: In Web Development, Today, I started working on a project called Password Manager. So far, I have:
+ - Initialized the Project Setup
+ - Installed and configured Tailwind CSS for Styling
+ - Designed and Implemented the Initial User Interface (UI)
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is Data Link Layer?
+ - Sub Layers of the Data Link Layer(Logical Link Control and Media Access Control)
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
