@@ -13,8 +13,8 @@ Learning Web Development: In Web Development, Today, I started working on a proj
  - Designed and Implemented the Initial User Interface
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is Data Link Layer?
- - Sub Layers of the Data Link Layer(Logical Link Control and Media Access Control)
+ - What is Framing
+ - Methods of Framing
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
