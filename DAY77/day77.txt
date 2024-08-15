@@ -3,9 +3,8 @@ Today was my #day77 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I solved these questions:
- - Lemonade Change(Leetcode POTD - 15/08/24)
  - Palindrome Linked List(Geeks For Geeks)
- - Remove duplicates from an unsorted linked list(Geeks For Geeks)
+ - Lemonade Change(Leetcode POTD - 15/08/24)
  - Add 1 to a Linked List Number(Geeks For Geeks POTD - 15/08/24)
 
 Learning Web Development: In Web Development, Today's Progress on the Password Manager Project:
