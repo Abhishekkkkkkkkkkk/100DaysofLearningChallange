@@ -14,9 +14,10 @@ Learning Web Development: In Web Development, Today's Progress on the Password M
  - Integrated React Toastify for notifications
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Flow Control
- - Error Control
- - MAC Addressing
+ - What is Virtual LAN?
+ - Working of VLAN
+ - Advantages and Disadvantages of VLAN
+ - Difference between LAN and VLAN
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
