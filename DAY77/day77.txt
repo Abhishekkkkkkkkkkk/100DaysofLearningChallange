@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day77 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these questions:
+ - Lemonade Change(Leetcode POTD - 15/08/24)
+ - Palindrome Linked List(Geeks For Geeks)
+ - Remove duplicates from an unsorted linked list(Geeks For Geeks)
+ - Add 1 to a Linked List Number(Geeks For Geeks POTD - 15/08/24)
+
+Learning Web Development: In Web Development, Today's Progress on the Password Manager Project:
+ - Implemented additional UI fixes
+ - Developed a Copy button feature
+ - Integrated React Toastify for notifications
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - Flow Control
+ - Error Control
+ - MAC Addressing
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
