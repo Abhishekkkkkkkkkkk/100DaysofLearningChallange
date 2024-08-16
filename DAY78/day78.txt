@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my #day78 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these questions:
+ - Add Number Linked Lists(Geeks For Geeks)
+ - Detect Loop in linked list(Geeks For Geeks)
+ - Maximum Distance in Arrays(Leetcode POTD - 15/08/24)
+
+Learning Web Development: In Web Development, Today's Progress on the Password Manager Project:
+ - Added functionality for editing and deleting passwords from local storage
+ - Implemented password-saving features
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - Network Layer
+ - Functionalities of the Network Layer 
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
