@@ -10,10 +10,11 @@ Learning DSA: In DSA, today I solved these questions:
 Learning Web Development: In Web Development, Today's Progress on the Password Manager Project:
  - Added functionality for editing and deleting passwords from local storage
  - Implemented password-saving features
+ - Fixing responsiveness issues
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Network Layer
- - Functionalities of the Network Layer 
+ - Functionalities of the Network Layer
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
