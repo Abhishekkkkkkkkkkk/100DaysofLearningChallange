@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day78 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I solved these questions:
+ - Ugly Number(Leetcode)
+ - Product array puzzle(Geeks For Geeks POTD - 17/08/24)
+ - Split an array into two equal Sum subarrays(Geeks For Geeks POTD - 18/08/24)
+ - Kth Smallest(Geeks For Geeks POTD - 19/08/24)
+
+Learning Web Development: In Web Development, Today's Progress on the Password Manager Project:
+ - Added functionality for editing and deleting passwords from local storage
+ - Implemented password-saving features
+ - Fixing responsiveness issues
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is Routing?
+ - Types of Routing(Static, Default and Dynamic)
+ - Difference between Adaptive and Non-Adaptive Routing
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
