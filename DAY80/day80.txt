@@ -14,9 +14,8 @@ Learning Web Development: In Web Development, Today, I started working on a proj
  - Designed the Navabar and Footer
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is Routing?
- - Types of Routing(Static, Default and Dynamic)
- - Difference between Adaptive and Non-Adaptive Routing
+ - Difference Between Li-Fi and Wi-Fi
+ - Difference Between HTTP and HTTPS
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
