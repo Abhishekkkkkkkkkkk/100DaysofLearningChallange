@@ -1,17 +1,17 @@
 Hello Everyone!
-Today was my #day79 of #100daysoflearning Challenge!
+Today was my #day80 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I solved these questions:
- - Ugly Number(Leetcode)
- - Product array puzzle(Geeks For Geeks POTD - 17/08/24)
- - Split an array into two equal Sum subarrays(Geeks For Geeks POTD - 18/08/24)
- - Kth Smallest(Geeks For Geeks POTD - 19/08/24)
+ - Find length of Loop(Geeks For Geeks)
+ - Remove duplicates from an unsorted linked list(Geeks For Geeks)
+ - Clone a linked list with next and random pointer(Geeks For Geeks HARD)
 
-Learning Web Development: In Web Development, Today, I started working on a project (GetMeAChai - Patreon Clone). So far, I have:
+Learning Web Development: In Web Development, Today, I started working on a project (GetMeAChai - Patreon Clone).
+So far, I have:
  - Initialized the Project Setup
  - Installed and configured Tailwind CSS for Styling
- - Designed the Navabar and Footer
+ - Designed the Navabar and Footer Section
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Difference Between Li-Fi and Wi-Fi
