@@ -7,7 +7,7 @@ Learning DSA: In DSA, today I solved these questions:
  - Flattening a Linked List(Geeks For Geeks)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Added login and signup buttons in the Navbar.
+ - Added Login and Signup buttons in the Navbar.
  - Designed the UI of the Homepage
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
