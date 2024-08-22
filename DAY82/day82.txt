@@ -7,14 +7,13 @@ Learning DSA: In DSA, today I learned about these topics:
  - Implement all the Operations of Stack
  - Implement Two stacks(Codestudio)
  - Segregate even and odd nodes in a Linked List(Geeks For Geeks)
+ -  Number Complement(Leetcode POTD - 22/08/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Added Login and Signup buttons in the Navbar.
- - Designed the UI of the Homepage
+ - Created and Designed the UI of the Login Page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Difference Between Modem and Router
- - Difference Between Latency and Throughput
+
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
