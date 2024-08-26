@@ -14,8 +14,8 @@ Learning Web Development: In Web Development, Today's progress on the GetMeAChai
  - Implemented additional UI fixes of Login Page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is an IP Address?
- - Working of an IP Address
+ - Transport Layer
+ - Working and Functionality of the Transport Layer
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
