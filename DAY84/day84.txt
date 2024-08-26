@@ -10,8 +10,8 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Expression contains redundant bracket or not(Geeks For Geeks)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Used GitHub and NextAuth for Sign-in and Sign-out in Login Page
- - Implemented additional UI fixes of Login Page
+ - Displayed login and signup buttons conditionally based on authentication status
+ - Added functionality to redirect users to the homepage after successful login or signup
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Transport Layer
