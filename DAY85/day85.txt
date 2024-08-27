@@ -16,7 +16,7 @@ Learning Web Development: In Web Development, Today's progress on the GetMeAChai
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Transmission Control Protocol
  - Features and Applications of TCP
- - Advantages and Disadvantages 
+ - Advantages and Disadvantages of TCP
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
