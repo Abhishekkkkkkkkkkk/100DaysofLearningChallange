@@ -10,8 +10,9 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Maximum Difference(Geeks For Geeks POTD - 27/08/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Displayed login and signup buttons conditionally based on authentication status
- - Added functionality to redirect users to the homepage after successful login or signup
+ - Designed the user profile page 
+ - Created the UI for the Supporters to display supporter's details in the user profile page
+ - Developed the UI for the Payment section in the user profile page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Transmission Control Protocol
