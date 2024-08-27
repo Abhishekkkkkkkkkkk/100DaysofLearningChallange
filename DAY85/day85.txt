@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day85 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Next Greater Element(Geeks For Geeks)
+ - Smallest number on left(Geeks For Geeks)
+ - Immediate Smaller Element(Geeks For Geeks)
+ - Largest Rectangle in Histogram(Leetcode HARD)
+ - Maximum Difference(Geeks For Geeks POTD - 27/08/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Displayed login and signup buttons conditionally based on authentication status
+ - Added functionality to redirect users to the homepage after successful login or signup
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - Transmission Control Protocol
+ - Features and Applications of TCP
+ - Advantages and Disadvantages 
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
