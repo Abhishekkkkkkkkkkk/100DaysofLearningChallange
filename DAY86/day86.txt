@@ -8,9 +8,7 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Sorting Elements of an Array by Frequency(Geeks For Geeks POTD - 28/08/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Designed the user profile page 
- - Created the UI for the Supporters to display supporter's details in the user profile page
- - Developed the UI for the Payment section in the user profile page
+ - Designed the User dashboard page where users can update their name, email, Profile pic, ID, and password etc.
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - User Datagram Protocol (UDP)
