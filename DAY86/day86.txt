@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my #day86 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - The Celebrity Problem(Geeks For Geeks)
+ - Max rectangle(Geeks For Geeks HARD)
+ - Sorting Elements of an Array by Frequency(Geeks For Geeks POTD - 28/08/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Designed the user profile page 
+ - Created the UI for the Supporters to display supporter's details in the user profile page
+ - Developed the UI for the Payment section in the user profile page
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
