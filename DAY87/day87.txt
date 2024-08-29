@@ -1,0 +1,23 @@
+Hello Everyone!
+Today was my #day87 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Count the Reversals(Geeks For Geeks)
+ - N Stacks In An Array(Codestudio HARD)
+ - Find length of Loop(Geeks For Geeks POTD - 29/08/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Designed the User dashboard page where users can update their name, email, Profile pic, ID, and password etc.
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - User Datagram Protocol (UDP)
+ - Applications and Features of UDP
+ - Advantages and Disadvantages of UDP
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
