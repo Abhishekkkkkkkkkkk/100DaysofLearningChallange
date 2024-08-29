@@ -8,7 +8,9 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Find length of Loop(Geeks For Geeks POTD - 29/08/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
-
+ - Installed Mongoose for MongoDB integration
+ - Implemented NextAuth callbacks for authentication
+ - Created the User and Payment Models using Mongoose
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Peer-to-Peer Network
