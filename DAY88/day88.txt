@@ -4,8 +4,8 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
  - Missing And Repeating(Geeks For Geeks)
- - Clone a stack without using extra space(Geeks For Geeks)
  - Get minimum element from stack(Geeks For Geeks)
+ - Clone a stack without using extra space(Geeks For Geeks)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
  - Create custom callbacks and session handling for the User model using NextAuth
