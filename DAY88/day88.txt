@@ -1,16 +1,14 @@
 Hello Everyone!
-Today was my #day87 of #100daysoflearning Challenge!
+Today was my #day88 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
- - Count the Reversals(Geeks For Geeks)
- - N Stacks In An Array(Codestudio HARD)
- - Find length of Loop(Geeks For Geeks POTD - 29/08/24)
+ - Missing And Repeating(Geeks For Geeks)
+ - Clone a stack without using extra space(Geeks For Geeks)
+ - Get minimum element from stack(Geeks For Geeks)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Installed Mongoose for MongoDB integration
- - Implemented NextAuth callbacks for authentication
- - Created the User and Payment Models using Mongoose
+ - Create custom callbacks and session handling for the User model using NextAuth
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - What is Congestion?
@@ -23,3 +21,4 @@ GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
 Happy Learning 🚀
 
 #100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
