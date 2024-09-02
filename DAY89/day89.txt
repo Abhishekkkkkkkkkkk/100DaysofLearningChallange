@@ -10,10 +10,11 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Find the Student that Will Replace the Chalk(Leetcode POTD - 02/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Create custom callbacks and session handling for the User model using NextAuth
+
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
-
+ - What is Session Layer in OSI model?
+ - Functions of the Session Layer
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
