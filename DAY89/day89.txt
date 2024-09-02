@@ -10,7 +10,7 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Find the Student that Will Replace the Chalk(Leetcode POTD - 02/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
-
+ - Integrated the Razorpay into the project to facilitate payment transactions
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - What is Session Layer in OSI model?
