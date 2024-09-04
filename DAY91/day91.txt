@@ -8,7 +8,8 @@ Learning DSA: In DSA, today I Learned about these topics:
  - Count ways to N'th Stair(Geeks For Geeks POTD - 04/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
-
+ - Created an API route to handle payment verification using Razorpay's utility functions
+ - Implemented logic to verify payments, update payment status, and handle successful or failed transactions.
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - What is Application Layer in OSI model?
