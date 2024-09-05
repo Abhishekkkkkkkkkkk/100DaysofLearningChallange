@@ -1,5 +1,5 @@
 Hello Everyone!
-Today was my #day91 of #100daysoflearning Challenge!
+Today was my #day92 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Learned about these topics:
@@ -10,12 +10,14 @@ Learning DSA: In DSA, today I Learned about these topics:
  - Missing in Array(Geeks For Geeks POTD - 05/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Created an API route to handle payment verification using Razorpay's utility functions
- - Implemented logic to verify payments, update payment status, and handle successful or failed transactions.
+ - Created fetchuser and fetchpayments functions in the useraction page to securely retrieve user details and payments from the database, with payments sorted in decreasing order of amount
+ - Added a getData function on the Paymentpage to fetch current user data using the fetchuser function and retrieve payments with the fetchpayments function
+ - Stored the fetched user data and payment details in the component state to dynamically display relevant information on the payment page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is Application Layer in OSI model?
- - Functions of the Application Layer
+ - Teletype Network Protocol
+ - File Transfer Protocol
+ - Network File System	
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
