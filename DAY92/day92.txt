@@ -1,0 +1,26 @@
+Hello Everyone!
+Today was my #day91 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Learned about these topics:
+ - Input Restricted and Output Restricted Queue
+ - What is Dqueue?
+ - Perform all the Operations of Dqueue using STL
+ - Implement Dqueue and its all Operations using Array
+ - Missing in Array(Geeks For Geeks POTD - 05/09/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Created an API route to handle payment verification using Razorpay's utility functions
+ - Implemented logic to verify payments, update payment status, and handle successful or failed transactions.
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is Application Layer in OSI model?
+ - Functions of the Application Layer
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
