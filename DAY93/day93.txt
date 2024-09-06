@@ -9,9 +9,9 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Delete Nodes From Linked List Present in Array(Leetcode POTD - 06/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Created fetchuser and fetchpayments functions in the useraction page to securely retrieve user details and payments from the database, with payments sorted in decreasing order of amount
- - Added a getData function on the Paymentpage to fetch current user data using the fetchuser function and retrieve payments with the fetchpayments function
- - Stored the fetched user data and payment details in the component state to dynamically display relevant information on the payment page
+ - Added an update profile feature in useractions page with username availability checks before updating
+ - Integrated profile update functionality in Dashboard page, ensuring user data is fetched and forms are updated accordingly
+ - Implemented profile update submission and handling in the UI with alert notifications for success
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Simple Mail Transfer Protocol
