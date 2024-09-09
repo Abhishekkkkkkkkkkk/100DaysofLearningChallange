@@ -6,15 +6,18 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Spiral Matrix IV(Leetcode POTD - 09/09/24)
  - Nth Natural Number(Geeks For Geeks POTD - 07/09/24)
  - Sort 0s, 1s and 2s(Geeks For Geeks POTD - 09/09/24)
+ - First negative in every window of size k(Geeks For Geeks)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Added an update profile feature in useractions page with username availability checks before updating
- - Integrated profile update functionality in Dashboard page, ensuring user data is fetched and forms are updated accordingly
- - Implemented profile update submission and handling in the UI with alert notifications for success
+ - Added toast notifications using react-toastify to display a confirmation message after successful payments in the Payment Page
+ - Added form validation to ensure the payment form fields meet minimum character length before submission
+ - Implemented search parameters to check payment status and redirect users after payment is done
+ - Fixed the UI of Payment page and Dashboard Page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Simple Mail Transfer Protocol
- - Trivial File Transfer Protocol	
+ - Dynamic Host Configuration Protocol 
+ - What is Line Printer Daemon?
+ - X window Protocol	
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
