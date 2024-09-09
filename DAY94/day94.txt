@@ -11,7 +11,7 @@ Learning DSA: In DSA, today I Solved these Questions:
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
  - Added toast notifications using react-toastify to display a confirmation message after successful payments in the Payment Page
  - Added form validation to ensure the payment form fields meet minimum character length before submission
- - Implemented search parameters to check payment status and redirect users after payment is done
+ - Implemented search parameters to check payment status and redirect users
  - Fixed the UI of Payment page and Dashboard Page
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
