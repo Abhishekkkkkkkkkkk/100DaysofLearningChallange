@@ -1,0 +1,28 @@
+Hello Everyone!
+Today was my #day95 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Circular tour(Geeks For Geeks)
+ - First non-repeating character in a stream(Geeks For Geeks)
+ - Insert Greatest Common Divisors in Linked List(Leetcode POTD - 10/09/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Added functionality to handle 404 errors when the username is not found in the database
+ - Added functionality to update usernames in the payments table when the user's profile is updated
+ - Added a section to the payment page that shows the total number of payments and the total amount raised, using array reduction to calculate the total
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - Domain Name System 
+ - Post Office Protocol	
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
