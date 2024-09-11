@@ -4,8 +4,8 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
  - Interleave the First Half of the Queue with Second Half(Geeks For Geeks)
- - Sum of minimum and maximum elements of all subarrays of size k
  - K Sized Subarray Maximum(Geeks For Geeks)
+ - Sum of minimum and maximum elements of all subarrays of size k
  - Minimum Cost of ropes(Geeks For Geeks POTD - 11/09/24)
  - Minimum Bit Flips to Convert Number(Leetcode POTD - 11/09/24)
 
@@ -15,8 +15,7 @@ Learning Web Development: In Web Development, Today's progress on the GetMeAChai
  - Added better spacing and layout adjustments to ensure responsiveness and proper display across different screen sizes
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Domain Name System 
- - Post Office Protocol	
+ - Why does DNS use UDP and not TCP?	
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
