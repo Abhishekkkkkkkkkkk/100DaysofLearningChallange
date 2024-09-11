@@ -10,9 +10,9 @@ Learning DSA: In DSA, today I Solved these Questions:
  - Minimum Bit Flips to Convert Number(Leetcode POTD - 11/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Added functionality to handle 404 errors when the username is not found in the database
- - Added functionality to update usernames in the payments table when the user's profile is updated
- - Added a section to the payment page that shows the total number of payments and the total amount raised, using array reduction to calculate the total
+ - Enhanced the homepage UI by updating the Hero section with a clearer description of the platform and its purpose, making it more welcoming for creators and supporters
+ - Improved the Fans section by introducing detailed fan profiles with placeholder images and descriptions for each fan, making it more visually engaging and informative
+ - Added better spacing and layout adjustments to ensure responsiveness and proper display across different screen sizes
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - Domain Name System 
