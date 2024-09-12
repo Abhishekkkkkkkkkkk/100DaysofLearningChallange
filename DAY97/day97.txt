@@ -1,0 +1,30 @@
+Hello Everyone!
+Today was my #day97 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - Interleave the First Half of the Queue with Second Half(Geeks For Geeks)
+ - K Sized Subarray Maximum(Geeks For Geeks)
+ - Sum of minimum and maximum elements of all subarrays of size k
+ - Minimum Cost of ropes(Geeks For Geeks POTD - 11/09/24)
+ - Minimum Bit Flips to Convert Number(Leetcode POTD - 11/09/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Developed the "About" page, providing users with a detailed overview of the platform's mission and features
+ - Implemented sections such as "Our Mission," "How It Works," and "Why Choose Us," using Tailwind CSS for responsive design
+ - Created a step-by-step guide on how creators can create accounts, share work, and receive support from fans
+ - Added a call-to-action section with a "Get Started" button linking to the login page, encouraging users to join the community
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - Why does DNS use UDP and not TCP?	
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
