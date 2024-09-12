@@ -2,12 +2,12 @@ Hello Everyone!
 Today was my #day97 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
-Learning DSA: In DSA, today I Solved these Questions:
- - Interleave the First Half of the Queue with Second Half(Geeks For Geeks)
- - K Sized Subarray Maximum(Geeks For Geeks)
- - Sum of minimum and maximum elements of all subarrays of size k
- - Minimum Cost of ropes(Geeks For Geeks POTD - 11/09/24)
- - Minimum Bit Flips to Convert Number(Leetcode POTD - 11/09/24)
+Learning DSA: In DSA, today I Learned about these topics and solved some Questions:
+ - What is HashMaps and Why we need this Data Structure?
+ - Sort Characters By Frequency(Leetcode)
+ - Count Pairs Of Similar Strings(Leetcode)
+ - Middle of a Linked List(Geeks For Geeks POTD - 12/09/24)
+ - Count the Number of Consistent Strings(Leetcode POTD - 12/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
  - Developed the "About" page, providing users with a detailed overview of the platform's mission and features
@@ -16,7 +16,7 @@ Learning Web Development: In Web Development, Today's progress on the GetMeAChai
  - Added a call-to-action section with a "Get Started" button linking to the login page, encouraging users to join the community
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - Why does DNS use UDP and not TCP?	
+ - What is DNS Spoofing or DNS Cache Poisoning, and how can it be prevented?	
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
