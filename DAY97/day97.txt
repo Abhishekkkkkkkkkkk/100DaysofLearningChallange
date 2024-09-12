@@ -2,8 +2,7 @@ Hello Everyone!
 Today was my #day97 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
-Learning DSA: In DSA, today I Learned about these topics and solved some Questions:
- - What is HashMaps and Why we need this Data Structure?
+Learning DSA: In DSA, today I Solved these Questions:
  - Sort Characters By Frequency(Leetcode)
  - Count Pairs Of Similar Strings(Leetcode)
  - Middle of a Linked List(Geeks For Geeks POTD - 12/09/24)
