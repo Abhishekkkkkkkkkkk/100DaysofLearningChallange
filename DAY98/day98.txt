@@ -1,0 +1,29 @@
+Hello Everyone!
+Today was my #day97 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - What is HashMaps and Why we need this Data Structure?
+ - Implementd Hashmap and it's all operations using unordered-map
+ - Maximum Frequency Number(Codestudio)
+ - XOR Queries of a Subarray(Leetcode POTD - 13/09/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Developed the "About" page, providing users with a detailed overview of the platform's mission and features
+ - Implemented sections such as "Our Mission," "How It Works," and "Why Choose Us," using Tailwind CSS for responsive design
+ - Created a step-by-step guide on how creators can create accounts, share work, and receive support from fans
+ - Added a call-to-action section with a "Get Started" button linking to the login page, encouraging users to join the community
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is DNS Spoofing or DNS Cache Poisoning, and how can it be prevented?	
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
