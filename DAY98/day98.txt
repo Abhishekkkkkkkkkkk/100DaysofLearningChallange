@@ -15,7 +15,8 @@ Learning Web Development: In Web Development, Today's progress on the GetMeAChai
  - Added a call-to-action section with a "Get Started" button linking to the login page, encouraging users to join the community
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is DNS Spoofing or DNS Cache Poisoning, and how can it be prevented?	
+ - What is Email and what are the Components of the Email?
+ - Working of Email	
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
