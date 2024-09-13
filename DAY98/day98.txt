@@ -1,5 +1,5 @@
 Hello Everyone!
-Today was my #day97 of #100daysoflearning Challenge!
+Today was my #day98 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
@@ -9,10 +9,8 @@ Learning DSA: In DSA, today I Solved these Questions:
  - XOR Queries of a Subarray(Leetcode POTD - 13/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
- - Developed the "About" page, providing users with a detailed overview of the platform's mission and features
- - Implemented sections such as "Our Mission," "How It Works," and "Why Choose Us," using Tailwind CSS for responsive design
- - Created a step-by-step guide on how creators can create accounts, share work, and receive support from fans
- - Added a call-to-action section with a "Get Started" button linking to the login page, encouraging users to join the community
+ - Optimized the payment query by limiting results to the top 10 supporters based on the amount using .limit in the Payment.find() function
+ - Implemented dynamic metadata generation for user pages, customizing the page title to include the username, enhancing SEO and user experience
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
  - What is Email and what are the Components of the Email?
