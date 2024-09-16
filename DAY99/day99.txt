@@ -4,9 +4,10 @@ I Completed all the tasks that I scheduled for today.
 
 Learning DSA: In DSA, today I Solved these Questions:
  - What is Bucket Array?
- - What is Hash Function and why we need a Hash Code?
- - Maximum Frequency Number(Codestudio)
- - XOR Queries of a Subarray(Leetcode POTD - 13/09/24)
+ - What is Hash Function and what is the use of Hash Code?
+ - Longest Subarray With Maximum Bitwise AND(Leetcode POTD - 14/09/24)
+ - Alternate positive and negative numbers(Geeks For Geeks POTD - 14/09/24)
+ - Longest valid Parentheses(Geeks For Geeks POTD - 16/09/24)
 
 Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
  - Finalized the project by ensuring full responsiveness across all pages, providing a seamless user experience on various screen sizes
