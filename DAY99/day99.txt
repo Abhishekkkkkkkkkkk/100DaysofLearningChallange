@@ -1,0 +1,28 @@
+Hello Everyone!
+Today was my #day98 of #100daysoflearning Challenge!
+I Completed all the tasks that I scheduled for today.
+
+Learning DSA: In DSA, today I Solved these Questions:
+ - What is Bucket Array?
+ - What is Hash Function and why we need a Hash Code?
+ - Maximum Frequency Number(Codestudio)
+ - XOR Queries of a Subarray(Leetcode POTD - 13/09/24)
+
+Learning Web Development: In Web Development, Today's progress on the GetMeAChai project (Patreon Clone):
+ - Finalized the project by ensuring full responsiveness across all pages, providing a seamless user experience on various screen sizes
+ - Fixed several database errors, improving the stability and reliability of the platform's data handling
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - What is Email and what are the Components of the Email?
+ - Working of Email	
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
