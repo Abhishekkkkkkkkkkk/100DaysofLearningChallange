@@ -1,10 +1,10 @@
 Hello Everyone!
-Today was my #day98 of #100daysoflearning Challenge!
+Today was my #day99 of #100daysoflearning Challenge!
 I Completed all the tasks that I scheduled for today.
 
-Learning DSA: In DSA, today I Solved these Questions:
+Learning DSA: In DSA, today I Learned about these topics and solved some questions:
  - What is Bucket Array?
- - What is Hash Function and what is the use of Hash Code?
+ - What is a hash function, and what is the use of a hash code?
  - Longest Subarray With Maximum Bitwise AND(Leetcode POTD - 14/09/24)
  - Alternate positive and negative numbers(Geeks For Geeks POTD - 14/09/24)
  - Longest valid Parentheses(Geeks For Geeks POTD - 16/09/24)
@@ -14,8 +14,8 @@ Learning Web Development: In Web Development, Today's progress on the GetMeAChai
  - Fixed several database errors, improving the stability and reliability of the platform's data handling
 
 Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
- - What is Email and what are the Components of the Email?
- - Working of Email	
+ - What is Bluetooth, and how does it work?
+ - Bluetooth Protocol Stack	
 
 Here is the link to all of the resources:-
 GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
