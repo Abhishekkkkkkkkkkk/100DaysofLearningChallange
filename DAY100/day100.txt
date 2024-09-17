@@ -1,0 +1,33 @@
+Hello Everyone!
+Today marks the completion of my 100-day journey of learning and self-development. 🎉
+I started the day with great energy, and I successfully completed all the tasks I had scheduled for today. ✅
+
+Today's Learning Details:-
+
+Learning DSA: In DSA, today I Learned about these topics and also, I solved some questions:
+ - What is a Collision?
+ - Methods to handle collisions (Separate Chaining, Open Addressing)
+ - Strategies for open addressing: Linear Probing, Quadratic Probing, and Double Hashing
+ - Complexity analysis of Hash Codes
+ - Find triplets with zero sum(Geeks For Geeks)
+ - Check if frequencies can be equal(Geeks For Geeks)
+ - Uncommon Words from Two Sentences (Leetcode POTD - 17/09/24)
+
+Learning Web Development: In Web Development, Today I finally completed all the works of the Get Me A Chai (Patreon Clone) project. I’ll share a detailed post about this project in few days.
+
+Core Subject: In Core Subject, today I learned about these topics in Computer Networks:
+ - How does FTP Work?
+ - How does packet travels in network?	
+
+Here is the link to all of the resources:-
+GitHub:- https://github.com/Abhishekkkkkkkkkkk/100DaysofLearningChallange
+
+P.S.:- Stay tuned! I’ll be sharing a full recap post of my #100DaysOfLearning challenge tomorrow. In this post, I’ll walk you through my entire learning journey—from where I started to everything I’ve learned and how I’ve improved myself throughout this challenge. 🌱✨
+
+Happy Learning 🚀
+
+#100daysoflearning #100daysofcode #dsa #development #Consistency #programming #learningandgrowing
+
+
+
+
